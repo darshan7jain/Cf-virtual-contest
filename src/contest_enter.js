@@ -19,11 +19,7 @@ function ContestEnter({ onVerify }) {
       const data = await res.json();
       if (data.status === 'OK' && data.result.length > 0) {
         const sub = data.result[0];
-        if (
-          sub.problem &&
-          sub.problem.contestId === 4 &&
-          sub.problem.index === 'A'
-        ) {
+        if(sub.problem && sub.problem.contestId === 4 && sub.problem.index === 'A'){
           setLoading(false);
           onVerify(handle);
           return;
@@ -53,7 +49,6 @@ function ContestEnter({ onVerify }) {
           disabled={loading}
         />
         <button onClick={handleVerifyClick} disabled={loading}>{loading ? 'Checking...' : 'Check'}</button>
-        {error && <p className="error-message">{error}</p>}
       </div>
     </div>
   );
