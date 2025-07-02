@@ -1,0 +1,99 @@
+import React, { useEffect, useState } from 'react';
+import './styles/contest_live.css';
+
+function getProblemUrl(contestId, index) {
+  return `https://codeforces.com/contest/${contestId}/problem/${index}`;
+}
+
+const formatTime = (seconds) => {
+  const h = Math.floor(seconds / 3600).toString().padStart(2, '0');
+  const m = Math.floor((seconds % 3600) / 60).toString().padStart(2, '0');
+  const s = (seconds % 60).toString().padStart(2, '0');
+  return `${h}:${m}:${s}`;
+};
+
+function ContestLive({ handle, problems, onEnd }) {
+  const [timeLeft, setTimeLeft] = useState(7200); // 2 hours in seconds
+  const [statuses, setStatuses] = useState(problems.map(() => 'no submission'));
+  const [checking, setChecking] = useState(Array(problems.length).fill(false));
+
+  useEffect(() => {
+    if (timeLeft <= 0) {
+      onEnd();
+      return;
+    }
+    const timer = setInterval(() => setTimeLeft(t => t - 1), 1000);
+    return () => clearInterval(timer);
+  }, [timeLeft, onEnd]);
+
+  const checkSubmission = async (idx) => {
+    setChecking(arr => arr.map((v, i) => i === idx ? true : v));
+    const url = `https://codeforces.com/api/user.status?handle=${handle}&from=1&count=20`;
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+      let verdict = 'no submission';
+      if (data.status === 'OK') {
+        for (const sub of data.result) {
+          if (
+            sub.problem &&
+            sub.problem.contestId === problems[idx].contestId &&
+            sub.problem.index === problems[idx].index
+          ) {
+            if (sub.verdict === 'OK') verdict = 'accepted';
+            else verdict = 'wrong';
+            break;
+          }
+        }
+      }
+      setStatuses(arr => arr.map((v, i) => i === idx ? verdict : v));
+    } catch {
+      setStatuses(arr => arr.map((v, i) => i === idx ? 'error' : v));
+    }
+    setChecking(arr => arr.map((v, i) => i === idx ? false : v));
+  };
+
+  return (
+    <div className="contest-live-container">
+      <h2>Contest Live</h2>
+      <div className="contest-live-timer">
+        Time Left: <b>{formatTime(timeLeft)}</b>
+      </div>
+      <table className="contest-live-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Problem</th>
+            <th>Status</th>
+            <th>Check</th>
+          </tr>
+        </thead>
+        <tbody>
+          {problems.map((p, idx) => (
+            <tr key={idx}>
+              <td style={{ textAlign: 'center' }}>{idx + 1}</td>
+              <td>
+                <a className="contest-live-problem-link" href={getProblemUrl(p.contestId, p.index)} target="_blank" rel="noopener noreferrer">
+                  {p.contestId}{p.index} ({p.tag})
+                </a>
+              </td>
+              <td>
+                <span className={`contest-live-status${statuses[idx]==='accepted' ? ' accepted' : statuses[idx]==='wrong' ? ' wrong' : ''}`}>{statuses[idx]}</span>
+              </td>
+              <td>
+                <button className="contest-live-check-btn" onClick={() => checkSubmission(idx)} disabled={checking[idx]}>
+                  {checking[idx] ? 'Checking...' : 'Check'}
+                </button>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <div className="contest-live-footer">
+        The contest will end automatically after 2 hours.
+      </div>
+    </div>
+  );
+}
+
+export default ContestLive;

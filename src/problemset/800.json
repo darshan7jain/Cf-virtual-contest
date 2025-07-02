@@ -1,0 +1,7846 @@
+{
+  "2-sat": [
+    {
+      "contestId": 1706,
+      "index": "A"
+    }
+  ],
+  "binary search": [
+    {
+      "contestId": 2114,
+      "index": "A"
+    },
+    {
+      "contestId": 2051,
+      "index": "B"
+    },
+    {
+      "contestId": 2025,
+      "index": "A"
+    },
+    {
+      "contestId": 2008,
+      "index": "C"
+    },
+    {
+      "contestId": 1996,
+      "index": "A"
+    },
+    {
+      "contestId": 1978,
+      "index": "B"
+    },
+    {
+      "contestId": 1956,
+      "index": "A"
+    },
+    {
+      "contestId": 1915,
+      "index": "C"
+    },
+    {
+      "contestId": 1611,
+      "index": "B"
+    },
+    {
+      "contestId": 1592,
+      "index": "A"
+    },
+    {
+      "contestId": 1566,
+      "index": "A"
+    },
+    {
+      "contestId": 750,
+      "index": "A"
+    },
+    {
+      "contestId": 202,
+      "index": "A"
+    }
+  ],
+  "bitmasks": [
+    {
+      "contestId": 2020,
+      "index": "A"
+    },
+    {
+      "contestId": 1915,
+      "index": "B"
+    },
+    {
+      "contestId": 1915,
+      "index": "A"
+    },
+    {
+      "contestId": 1843,
+      "index": "C"
+    },
+    {
+      "contestId": 1829,
+      "index": "C"
+    },
+    {
+      "contestId": 1805,
+      "index": "A"
+    },
+    {
+      "contestId": 1763,
+      "index": "A"
+    },
+    {
+      "contestId": 1698,
+      "index": "A"
+    },
+    {
+      "contestId": 1696,
+      "index": "A"
+    },
+    {
+      "contestId": 1688,
+      "index": "B"
+    },
+    {
+      "contestId": 1688,
+      "index": "A"
+    },
+    {
+      "contestId": 1635,
+      "index": "A"
+    },
+    {
+      "contestId": 1625,
+      "index": "A"
+    },
+    {
+      "contestId": 1566,
+      "index": "B"
+    },
+    {
+      "contestId": 1527,
+      "index": "A"
+    },
+    {
+      "contestId": 1421,
+      "index": "A"
+    },
+    {
+      "contestId": 202,
+      "index": "A"
+    }
+  ],
+  "brute force": [
+    {
+      "contestId": 2121,
+      "index": "A"
+    },
+    {
+      "contestId": 2114,
+      "index": "A"
+    },
+    {
+      "contestId": 2106,
+      "index": "A"
+    },
+    {
+      "contestId": 2103,
+      "index": "A"
+    },
+    {
+      "contestId": 2098,
+      "index": "A"
+    },
+    {
+      "contestId": 2094,
+      "index": "B"
+    },
+    {
+      "contestId": 2070,
+      "index": "A"
+    },
+    {
+      "contestId": 2067,
+      "index": "A"
+    },
+    {
+      "contestId": 2065,
+      "index": "A"
+    },
+    {
+      "contestId": 2060,
+      "index": "A"
+    },
+    {
+      "contestId": 2048,
+      "index": "A"
+    },
+    {
+      "contestId": 2044,
+      "index": "A"
+    },
+    {
+      "contestId": 2043,
+      "index": "A"
+    },
+    {
+      "contestId": 2037,
+      "index": "B"
+    },
+    {
+      "contestId": 2034,
+      "index": "A"
+    },
+    {
+      "contestId": 2020,
+      "index": "A"
+    },
+    {
+      "contestId": 2019,
+      "index": "A"
+    },
+    {
+      "contestId": 2010,
+      "index": "B"
+    },
+    {
+      "contestId": 2010,
+      "index": "A"
+    },
+    {
+      "contestId": 2009,
+      "index": "B"
+    },
+    {
+      "contestId": 2009,
+      "index": "A"
+    },
+    {
+      "contestId": 2008,
+      "index": "C"
+    },
+    {
+      "contestId": 2008,
+      "index": "B"
+    },
+    {
+      "contestId": 2008,
+      "index": "A"
+    },
+    {
+      "contestId": 1997,
+      "index": "A"
+    },
+    {
+      "contestId": 1995,
+      "index": "A"
+    },
+    {
+      "contestId": 1992,
+      "index": "A"
+    },
+    {
+      "contestId": 1986,
+      "index": "A"
+    },
+    {
+      "contestId": 1985,
+      "index": "B"
+    },
+    {
+      "contestId": 1981,
+      "index": "A"
+    },
+    {
+      "contestId": 1979,
+      "index": "A"
+    },
+    {
+      "contestId": 1975,
+      "index": "A"
+    },
+    {
+      "contestId": 1972,
+      "index": "A"
+    },
+    {
+      "contestId": 1968,
+      "index": "A"
+    },
+    {
+      "contestId": 1956,
+      "index": "A"
+    },
+    {
+      "contestId": 1948,
+      "index": "A"
+    },
+    {
+      "contestId": 1941,
+      "index": "A"
+    },
+    {
+      "contestId": 1931,
+      "index": "A"
+    },
+    {
+      "contestId": 1920,
+      "index": "A"
+    },
+    {
+      "contestId": 1915,
+      "index": "B"
+    },
+    {
+      "contestId": 1903,
+      "index": "A"
+    },
+    {
+      "contestId": 1898,
+      "index": "A"
+    },
+    {
+      "contestId": 1886,
+      "index": "A"
+    },
+    {
+      "contestId": 1884,
+      "index": "A"
+    },
+    {
+      "contestId": 1881,
+      "index": "A"
+    },
+    {
+      "contestId": 1873,
+      "index": "B"
+    },
+    {
+      "contestId": 1873,
+      "index": "A"
+    },
+    {
+      "contestId": 1872,
+      "index": "A"
+    },
+    {
+      "contestId": 1853,
+      "index": "A"
+    },
+    {
+      "contestId": 1851,
+      "index": "A"
+    },
+    {
+      "contestId": 1846,
+      "index": "B"
+    },
+    {
+      "contestId": 1822,
+      "index": "A"
+    },
+    {
+      "contestId": 1810,
+      "index": "A"
+    },
+    {
+      "contestId": 1805,
+      "index": "A"
+    },
+    {
+      "contestId": 1796,
+      "index": "A"
+    },
+    {
+      "contestId": 1795,
+      "index": "A"
+    },
+    {
+      "contestId": 1789,
+      "index": "B"
+    },
+    {
+      "contestId": 1789,
+      "index": "A"
+    },
+    {
+      "contestId": 1788,
+      "index": "A"
+    },
+    {
+      "contestId": 1775,
+      "index": "A1"
+    },
+    {
+      "contestId": 1772,
+      "index": "B"
+    },
+    {
+      "contestId": 1766,
+      "index": "A"
+    },
+    {
+      "contestId": 1761,
+      "index": "A"
+    },
+    {
+      "contestId": 1750,
+      "index": "B"
+    },
+    {
+      "contestId": 1743,
+      "index": "A"
+    },
+    {
+      "contestId": 1736,
+      "index": "A"
+    },
+    {
+      "contestId": 1734,
+      "index": "A"
+    },
+    {
+      "contestId": 1728,
+      "index": "A"
+    },
+    {
+      "contestId": 1720,
+      "index": "B"
+    },
+    {
+      "contestId": 1709,
+      "index": "A"
+    },
+    {
+      "contestId": 1703,
+      "index": "C"
+    },
+    {
+      "contestId": 1703,
+      "index": "A"
+    },
+    {
+      "contestId": 1698,
+      "index": "A"
+    },
+    {
+      "contestId": 1691,
+      "index": "A"
+    },
+    {
+      "contestId": 1689,
+      "index": "A"
+    },
+    {
+      "contestId": 1688,
+      "index": "A"
+    },
+    {
+      "contestId": 1680,
+      "index": "A"
+    },
+    {
+      "contestId": 1676,
+      "index": "C"
+    },
+    {
+      "contestId": 1657,
+      "index": "A"
+    },
+    {
+      "contestId": 1654,
+      "index": "A"
+    },
+    {
+      "contestId": 1646,
+      "index": "B"
+    },
+    {
+      "contestId": 1644,
+      "index": "B"
+    },
+    {
+      "contestId": 1637,
+      "index": "A"
+    },
+    {
+      "contestId": 1633,
+      "index": "A"
+    },
+    {
+      "contestId": 1629,
+      "index": "A"
+    },
+    {
+      "contestId": 1623,
+      "index": "A"
+    },
+    {
+      "contestId": 1614,
+      "index": "A"
+    },
+    {
+      "contestId": 1612,
+      "index": "A"
+    },
+    {
+      "contestId": 1598,
+      "index": "A"
+    },
+    {
+      "contestId": 1561,
+      "index": "A"
+    },
+    {
+      "contestId": 1557,
+      "index": "A"
+    },
+    {
+      "contestId": 1546,
+      "index": "A"
+    },
+    {
+      "contestId": 1538,
+      "index": "A"
+    },
+    {
+      "contestId": 1536,
+      "index": "A"
+    },
+    {
+      "contestId": 1535,
+      "index": "A"
+    },
+    {
+      "contestId": 1534,
+      "index": "A"
+    },
+    {
+      "contestId": 1520,
+      "index": "B"
+    },
+    {
+      "contestId": 1520,
+      "index": "A"
+    },
+    {
+      "contestId": 1512,
+      "index": "A"
+    },
+    {
+      "contestId": 1498,
+      "index": "A"
+    },
+    {
+      "contestId": 1497,
+      "index": "A"
+    },
+    {
+      "contestId": 1491,
+      "index": "A"
+    },
+    {
+      "contestId": 1478,
+      "index": "A"
+    },
+    {
+      "contestId": 1466,
+      "index": "A"
+    },
+    {
+      "contestId": 1437,
+      "index": "A"
+    },
+    {
+      "contestId": 1415,
+      "index": "A"
+    },
+    {
+      "contestId": 1391,
+      "index": "B"
+    },
+    {
+      "contestId": 1388,
+      "index": "A"
+    },
+    {
+      "contestId": 1382,
+      "index": "A"
+    },
+    {
+      "contestId": 1368,
+      "index": "A"
+    },
+    {
+      "contestId": 1323,
+      "index": "A"
+    },
+    {
+      "contestId": 1305,
+      "index": "A"
+    },
+    {
+      "contestId": 1271,
+      "index": "A"
+    },
+    {
+      "contestId": 1269,
+      "index": "A"
+    },
+    {
+      "contestId": 1250,
+      "index": "F"
+    },
+    {
+      "contestId": 1236,
+      "index": "A"
+    },
+    {
+      "contestId": 1230,
+      "index": "A"
+    },
+    {
+      "contestId": 1228,
+      "index": "A"
+    },
+    {
+      "contestId": 1207,
+      "index": "A"
+    },
+    {
+      "contestId": 1200,
+      "index": "A"
+    },
+    {
+      "contestId": 1196,
+      "index": "A"
+    },
+    {
+      "contestId": 1191,
+      "index": "A"
+    },
+    {
+      "contestId": 1176,
+      "index": "A"
+    },
+    {
+      "contestId": 1167,
+      "index": "A"
+    },
+    {
+      "contestId": 1114,
+      "index": "A"
+    },
+    {
+      "contestId": 1097,
+      "index": "A"
+    },
+    {
+      "contestId": 1091,
+      "index": "A"
+    },
+    {
+      "contestId": 1088,
+      "index": "A"
+    },
+    {
+      "contestId": 1064,
+      "index": "A"
+    },
+    {
+      "contestId": 1060,
+      "index": "A"
+    },
+    {
+      "contestId": 999,
+      "index": "A"
+    },
+    {
+      "contestId": 988,
+      "index": "A"
+    },
+    {
+      "contestId": 935,
+      "index": "A"
+    },
+    {
+      "contestId": 931,
+      "index": "A"
+    },
+    {
+      "contestId": 919,
+      "index": "A"
+    },
+    {
+      "contestId": 918,
+      "index": "A"
+    },
+    {
+      "contestId": 908,
+      "index": "A"
+    },
+    {
+      "contestId": 894,
+      "index": "A"
+    },
+    {
+      "contestId": 888,
+      "index": "A"
+    },
+    {
+      "contestId": 855,
+      "index": "A"
+    },
+    {
+      "contestId": 854,
+      "index": "A"
+    },
+    {
+      "contestId": 811,
+      "index": "A"
+    },
+    {
+      "contestId": 796,
+      "index": "A"
+    },
+    {
+      "contestId": 794,
+      "index": "A"
+    },
+    {
+      "contestId": 764,
+      "index": "A"
+    },
+    {
+      "contestId": 755,
+      "index": "A"
+    },
+    {
+      "contestId": 750,
+      "index": "A"
+    },
+    {
+      "contestId": 747,
+      "index": "A"
+    },
+    {
+      "contestId": 734,
+      "index": "B"
+    },
+    {
+      "contestId": 732,
+      "index": "A"
+    },
+    {
+      "contestId": 711,
+      "index": "A"
+    },
+    {
+      "contestId": 629,
+      "index": "A"
+    },
+    {
+      "contestId": 551,
+      "index": "A"
+    },
+    {
+      "contestId": 546,
+      "index": "A"
+    },
+    {
+      "contestId": 509,
+      "index": "A"
+    },
+    {
+      "contestId": 378,
+      "index": "A"
+    },
+    {
+      "contestId": 330,
+      "index": "A"
+    },
+    {
+      "contestId": 271,
+      "index": "A"
+    },
+    {
+      "contestId": 268,
+      "index": "A"
+    },
+    {
+      "contestId": 236,
+      "index": "A"
+    },
+    {
+      "contestId": 231,
+      "index": "A"
+    },
+    {
+      "contestId": 214,
+      "index": "A"
+    },
+    {
+      "contestId": 202,
+      "index": "A"
+    },
+    {
+      "contestId": 181,
+      "index": "A"
+    },
+    {
+      "contestId": 172,
+      "index": "A"
+    },
+    {
+      "contestId": 157,
+      "index": "A"
+    },
+    {
+      "contestId": 155,
+      "index": "A"
+    },
+    {
+      "contestId": 80,
+      "index": "A"
+    },
+    {
+      "contestId": 47,
+      "index": "A"
+    },
+    {
+      "contestId": 46,
+      "index": "A"
+    },
+    {
+      "contestId": 32,
+      "index": "A"
+    },
+    {
+      "contestId": 22,
+      "index": "A"
+    },
+    {
+      "contestId": 4,
+      "index": "A"
+    }
+  ],
+  "chinese remainder theorem": [
+    {
+      "contestId": 2034,
+      "index": "A"
+    }
+  ],
+  "combinatorics": [
+    {
+      "contestId": 2108,
+      "index": "A"
+    },
+    {
+      "contestId": 2030,
+      "index": "B"
+    },
+    {
+      "contestId": 1843,
+      "index": "C"
+    },
+    {
+      "contestId": 1823,
+      "index": "A"
+    },
+    {
+      "contestId": 1821,
+      "index": "A"
+    },
+    {
+      "contestId": 1743,
+      "index": "A"
+    },
+    {
+      "contestId": 1674,
+      "index": "B"
+    },
+    {
+      "contestId": 1658,
+      "index": "B"
+    },
+    {
+      "contestId": 1581,
+      "index": "A"
+    },
+    {
+      "contestId": 1499,
+      "index": "A"
+    },
+    {
+      "contestId": 629,
+      "index": "A"
+    }
+  ],
+  "constructive algorithms": [
+    {
+      "contestId": 2121,
+      "index": "B"
+    },
+    {
+      "contestId": 2118,
+      "index": "A"
+    },
+    {
+      "contestId": 2117,
+      "index": "B"
+    },
+    {
+      "contestId": 2096,
+      "index": "A"
+    },
+    {
+      "contestId": 2094,
+      "index": "B"
+    },
+    {
+      "contestId": 2084,
+      "index": "A"
+    },
+    {
+      "contestId": 2082,
+      "index": "A"
+    },
+    {
+      "contestId": 2067,
+      "index": "A"
+    },
+    {
+      "contestId": 2065,
+      "index": "A"
+    },
+    {
+      "contestId": 2062,
+      "index": "A"
+    },
+    {
+      "contestId": 2059,
+      "index": "A"
+    },
+    {
+      "contestId": 2057,
+      "index": "A"
+    },
+    {
+      "contestId": 2056,
+      "index": "A"
+    },
+    {
+      "contestId": 2055,
+      "index": "A"
+    },
+    {
+      "contestId": 2039,
+      "index": "A"
+    },
+    {
+      "contestId": 2033,
+      "index": "A"
+    },
+    {
+      "contestId": 2031,
+      "index": "A"
+    },
+    {
+      "contestId": 2030,
+      "index": "B"
+    },
+    {
+      "contestId": 2030,
+      "index": "A"
+    },
+    {
+      "contestId": 2022,
+      "index": "A"
+    },
+    {
+      "contestId": 2013,
+      "index": "A"
+    },
+    {
+      "contestId": 2008,
+      "index": "A"
+    },
+    {
+      "contestId": 2002,
+      "index": "A"
+    },
+    {
+      "contestId": 2001,
+      "index": "B"
+    },
+    {
+      "contestId": 1998,
+      "index": "A"
+    },
+    {
+      "contestId": 1994,
+      "index": "A"
+    },
+    {
+      "contestId": 1992,
+      "index": "A"
+    },
+    {
+      "contestId": 1984,
+      "index": "A"
+    },
+    {
+      "contestId": 1983,
+      "index": "A"
+    },
+    {
+      "contestId": 1978,
+      "index": "A"
+    },
+    {
+      "contestId": 1969,
+      "index": "A"
+    },
+    {
+      "contestId": 1966,
+      "index": "A"
+    },
+    {
+      "contestId": 1957,
+      "index": "A"
+    },
+    {
+      "contestId": 1948,
+      "index": "A"
+    },
+    {
+      "contestId": 1942,
+      "index": "A"
+    },
+    {
+      "contestId": 1935,
+      "index": "A"
+    },
+    {
+      "contestId": 1929,
+      "index": "B"
+    },
+    {
+      "contestId": 1929,
+      "index": "A"
+    },
+    {
+      "contestId": 1925,
+      "index": "A"
+    },
+    {
+      "contestId": 1922,
+      "index": "A"
+    },
+    {
+      "contestId": 1918,
+      "index": "A"
+    },
+    {
+      "contestId": 1917,
+      "index": "A"
+    },
+    {
+      "contestId": 1916,
+      "index": "A"
+    },
+    {
+      "contestId": 1914,
+      "index": "B"
+    },
+    {
+      "contestId": 1905,
+      "index": "A"
+    },
+    {
+      "contestId": 1902,
+      "index": "A"
+    },
+    {
+      "contestId": 1900,
+      "index": "A"
+    },
+    {
+      "contestId": 1891,
+      "index": "A"
+    },
+    {
+      "contestId": 1890,
+      "index": "B"
+    },
+    {
+      "contestId": 1890,
+      "index": "A"
+    },
+    {
+      "contestId": 1886,
+      "index": "A"
+    },
+    {
+      "contestId": 1878,
+      "index": "B"
+    },
+    {
+      "contestId": 1870,
+      "index": "A"
+    },
+    {
+      "contestId": 1867,
+      "index": "A"
+    },
+    {
+      "contestId": 1864,
+      "index": "A"
+    },
+    {
+      "contestId": 1862,
+      "index": "B"
+    },
+    {
+      "contestId": 1861,
+      "index": "A"
+    },
+    {
+      "contestId": 1859,
+      "index": "A"
+    },
+    {
+      "contestId": 1851,
+      "index": "A"
+    },
+    {
+      "contestId": 1845,
+      "index": "A"
+    },
+    {
+      "contestId": 1844,
+      "index": "A"
+    },
+    {
+      "contestId": 1841,
+      "index": "A"
+    },
+    {
+      "contestId": 1838,
+      "index": "A"
+    },
+    {
+      "contestId": 1837,
+      "index": "A"
+    },
+    {
+      "contestId": 1831,
+      "index": "A"
+    },
+    {
+      "contestId": 1828,
+      "index": "A"
+    },
+    {
+      "contestId": 1823,
+      "index": "A"
+    },
+    {
+      "contestId": 1816,
+      "index": "A"
+    },
+    {
+      "contestId": 1810,
+      "index": "B"
+    },
+    {
+      "contestId": 1797,
+      "index": "A"
+    },
+    {
+      "contestId": 1787,
+      "index": "A"
+    },
+    {
+      "contestId": 1783,
+      "index": "A"
+    },
+    {
+      "contestId": 1780,
+      "index": "A"
+    },
+    {
+      "contestId": 1779,
+      "index": "A"
+    },
+    {
+      "contestId": 1775,
+      "index": "A1"
+    },
+    {
+      "contestId": 1774,
+      "index": "A"
+    },
+    {
+      "contestId": 1773,
+      "index": "F"
+    },
+    {
+      "contestId": 1763,
+      "index": "A"
+    },
+    {
+      "contestId": 1761,
+      "index": "A"
+    },
+    {
+      "contestId": 1758,
+      "index": "A"
+    },
+    {
+      "contestId": 1754,
+      "index": "B"
+    },
+    {
+      "contestId": 1750,
+      "index": "A"
+    },
+    {
+      "contestId": 1747,
+      "index": "A"
+    },
+    {
+      "contestId": 1746,
+      "index": "B"
+    },
+    {
+      "contestId": 1746,
+      "index": "A"
+    },
+    {
+      "contestId": 1743,
+      "index": "B"
+    },
+    {
+      "contestId": 1741,
+      "index": "B"
+    },
+    {
+      "contestId": 1740,
+      "index": "A"
+    },
+    {
+      "contestId": 1735,
+      "index": "A"
+    },
+    {
+      "contestId": 1734,
+      "index": "B"
+    },
+    {
+      "contestId": 1728,
+      "index": "B"
+    },
+    {
+      "contestId": 1719,
+      "index": "B"
+    },
+    {
+      "contestId": 1716,
+      "index": "B"
+    },
+    {
+      "contestId": 1715,
+      "index": "A"
+    },
+    {
+      "contestId": 1712,
+      "index": "B"
+    },
+    {
+      "contestId": 1711,
+      "index": "A"
+    },
+    {
+      "contestId": 1706,
+      "index": "A"
+    },
+    {
+      "contestId": 1704,
+      "index": "A"
+    },
+    {
+      "contestId": 1702,
+      "index": "A"
+    },
+    {
+      "contestId": 1700,
+      "index": "A"
+    },
+    {
+      "contestId": 1699,
+      "index": "A"
+    },
+    {
+      "contestId": 1698,
+      "index": "B"
+    },
+    {
+      "contestId": 1690,
+      "index": "A"
+    },
+    {
+      "contestId": 1688,
+      "index": "B"
+    },
+    {
+      "contestId": 1684,
+      "index": "B"
+    },
+    {
+      "contestId": 1684,
+      "index": "A"
+    },
+    {
+      "contestId": 1674,
+      "index": "A"
+    },
+    {
+      "contestId": 1672,
+      "index": "B"
+    },
+    {
+      "contestId": 1665,
+      "index": "A"
+    },
+    {
+      "contestId": 1658,
+      "index": "A"
+    },
+    {
+      "contestId": 1651,
+      "index": "B"
+    },
+    {
+      "contestId": 1646,
+      "index": "B"
+    },
+    {
+      "contestId": 1644,
+      "index": "B"
+    },
+    {
+      "contestId": 1638,
+      "index": "A"
+    },
+    {
+      "contestId": 1627,
+      "index": "A"
+    },
+    {
+      "contestId": 1626,
+      "index": "A"
+    },
+    {
+      "contestId": 1621,
+      "index": "A"
+    },
+    {
+      "contestId": 1620,
+      "index": "A"
+    },
+    {
+      "contestId": 1617,
+      "index": "A"
+    },
+    {
+      "contestId": 1614,
+      "index": "A"
+    },
+    {
+      "contestId": 1612,
+      "index": "A"
+    },
+    {
+      "contestId": 1611,
+      "index": "B"
+    },
+    {
+      "contestId": 1611,
+      "index": "A"
+    },
+    {
+      "contestId": 1608,
+      "index": "A"
+    },
+    {
+      "contestId": 1574,
+      "index": "A"
+    },
+    {
+      "contestId": 1566,
+      "index": "B"
+    },
+    {
+      "contestId": 1541,
+      "index": "A"
+    },
+    {
+      "contestId": 1536,
+      "index": "A"
+    },
+    {
+      "contestId": 1530,
+      "index": "B"
+    },
+    {
+      "contestId": 1529,
+      "index": "A"
+    },
+    {
+      "contestId": 1526,
+      "index": "A"
+    },
+    {
+      "contestId": 1515,
+      "index": "A"
+    },
+    {
+      "contestId": 1513,
+      "index": "A"
+    },
+    {
+      "contestId": 1509,
+      "index": "A"
+    },
+    {
+      "contestId": 1504,
+      "index": "A"
+    },
+    {
+      "contestId": 1499,
+      "index": "A"
+    },
+    {
+      "contestId": 1493,
+      "index": "A"
+    },
+    {
+      "contestId": 1461,
+      "index": "A"
+    },
+    {
+      "contestId": 1454,
+      "index": "A"
+    },
+    {
+      "contestId": 1450,
+      "index": "A"
+    },
+    {
+      "contestId": 1447,
+      "index": "A"
+    },
+    {
+      "contestId": 1443,
+      "index": "A"
+    },
+    {
+      "contestId": 1438,
+      "index": "A"
+    },
+    {
+      "contestId": 1437,
+      "index": "A"
+    },
+    {
+      "contestId": 1413,
+      "index": "A"
+    },
+    {
+      "contestId": 1408,
+      "index": "A"
+    },
+    {
+      "contestId": 1405,
+      "index": "A"
+    },
+    {
+      "contestId": 1400,
+      "index": "A"
+    },
+    {
+      "contestId": 1391,
+      "index": "A"
+    },
+    {
+      "contestId": 1389,
+      "index": "A"
+    },
+    {
+      "contestId": 1372,
+      "index": "A"
+    },
+    {
+      "contestId": 1353,
+      "index": "A"
+    },
+    {
+      "contestId": 1343,
+      "index": "B"
+    },
+    {
+      "contestId": 1337,
+      "index": "A"
+    },
+    {
+      "contestId": 1325,
+      "index": "A"
+    },
+    {
+      "contestId": 1305,
+      "index": "A"
+    },
+    {
+      "contestId": 1196,
+      "index": "A"
+    },
+    {
+      "contestId": 1104,
+      "index": "A"
+    },
+    {
+      "contestId": 1088,
+      "index": "A"
+    },
+    {
+      "contestId": 1081,
+      "index": "A"
+    },
+    {
+      "contestId": 932,
+      "index": "A"
+    },
+    {
+      "contestId": 899,
+      "index": "A"
+    },
+    {
+      "contestId": 854,
+      "index": "A"
+    },
+    {
+      "contestId": 732,
+      "index": "A"
+    },
+    {
+      "contestId": 686,
+      "index": "A"
+    },
+    {
+      "contestId": 680,
+      "index": "A"
+    },
+    {
+      "contestId": 676,
+      "index": "A"
+    },
+    {
+      "contestId": 648,
+      "index": "B"
+    },
+    {
+      "contestId": 629,
+      "index": "A"
+    },
+    {
+      "contestId": 595,
+      "index": "A"
+    },
+    {
+      "contestId": 513,
+      "index": "A"
+    },
+    {
+      "contestId": 443,
+      "index": "A"
+    },
+    {
+      "contestId": 421,
+      "index": "A"
+    },
+    {
+      "contestId": 361,
+      "index": "A"
+    },
+    {
+      "contestId": 266,
+      "index": "B"
+    },
+    {
+      "contestId": 148,
+      "index": "A"
+    }
+  ],
+  "data structures": [
+    {
+      "contestId": 2021,
+      "index": "A"
+    },
+    {
+      "contestId": 1956,
+      "index": "A"
+    },
+    {
+      "contestId": 1799,
+      "index": "A"
+    },
+    {
+      "contestId": 1767,
+      "index": "B"
+    },
+    {
+      "contestId": 1760,
+      "index": "C"
+    },
+    {
+      "contestId": 1730,
+      "index": "A"
+    },
+    {
+      "contestId": 1722,
+      "index": "C"
+    },
+    {
+      "contestId": 1720,
+      "index": "B"
+    },
+    {
+      "contestId": 1714,
+      "index": "B"
+    },
+    {
+      "contestId": 1703,
+      "index": "B"
+    },
+    {
+      "contestId": 1690,
+      "index": "C"
+    },
+    {
+      "contestId": 1497,
+      "index": "A"
+    },
+    {
+      "contestId": 1200,
+      "index": "A"
+    }
+  ],
+  "dfs and similar": [
+    {
+      "contestId": 1598,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "B"
+    },
+    {
+      "contestId": 910,
+      "index": "A"
+    }
+  ],
+  "divide and conquer": [],
+  "dsu": [
+    {
+      "contestId": 1620,
+      "index": "A"
+    }
+  ],
+  "expression parsing": [
+    {
+      "contestId": 32,
+      "index": "B"
+    }
+  ],
+  "fft": [],
+  "flows": [
+    {
+      "contestId": 1797,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "B"
+    }
+  ],
+  "games": [
+    {
+      "contestId": 2116,
+      "index": "A"
+    },
+    {
+      "contestId": 2055,
+      "index": "A"
+    },
+    {
+      "contestId": 2040,
+      "index": "A"
+    },
+    {
+      "contestId": 2030,
+      "index": "B"
+    },
+    {
+      "contestId": 2003,
+      "index": "B"
+    },
+    {
+      "contestId": 1966,
+      "index": "A"
+    },
+    {
+      "contestId": 1956,
+      "index": "B"
+    },
+    {
+      "contestId": 1956,
+      "index": "A"
+    },
+    {
+      "contestId": 1919,
+      "index": "A"
+    },
+    {
+      "contestId": 1899,
+      "index": "A"
+    },
+    {
+      "contestId": 1858,
+      "index": "A"
+    },
+    {
+      "contestId": 1844,
+      "index": "A"
+    },
+    {
+      "contestId": 1842,
+      "index": "A"
+    },
+    {
+      "contestId": 1841,
+      "index": "A"
+    },
+    {
+      "contestId": 1719,
+      "index": "A"
+    },
+    {
+      "contestId": 1695,
+      "index": "A"
+    },
+    {
+      "contestId": 1684,
+      "index": "A"
+    },
+    {
+      "contestId": 1681,
+      "index": "A"
+    },
+    {
+      "contestId": 1673,
+      "index": "A"
+    },
+    {
+      "contestId": 1672,
+      "index": "A"
+    },
+    {
+      "contestId": 1480,
+      "index": "A"
+    },
+    {
+      "contestId": 1398,
+      "index": "B"
+    },
+    {
+      "contestId": 1270,
+      "index": "A"
+    },
+    {
+      "contestId": 959,
+      "index": "A"
+    },
+    {
+      "contestId": 832,
+      "index": "A"
+    }
+  ],
+  "geometry": [
+    {
+      "contestId": 2120,
+      "index": "A"
+    },
+    {
+      "contestId": 2074,
+      "index": "B"
+    },
+    {
+      "contestId": 2074,
+      "index": "A"
+    },
+    {
+      "contestId": 2053,
+      "index": "A"
+    },
+    {
+      "contestId": 2027,
+      "index": "A"
+    },
+    {
+      "contestId": 1986,
+      "index": "A"
+    },
+    {
+      "contestId": 1928,
+      "index": "A"
+    },
+    {
+      "contestId": 1926,
+      "index": "B"
+    },
+    {
+      "contestId": 1816,
+      "index": "A"
+    },
+    {
+      "contestId": 1806,
+      "index": "A"
+    },
+    {
+      "contestId": 1791,
+      "index": "B"
+    },
+    {
+      "contestId": 1781,
+      "index": "A"
+    },
+    {
+      "contestId": 1740,
+      "index": "B"
+    },
+    {
+      "contestId": 1713,
+      "index": "A"
+    },
+    {
+      "contestId": 1642,
+      "index": "A"
+    },
+    {
+      "contestId": 1622,
+      "index": "A"
+    },
+    {
+      "contestId": 1466,
+      "index": "A"
+    },
+    {
+      "contestId": 1422,
+      "index": "A"
+    },
+    {
+      "contestId": 1398,
+      "index": "A"
+    },
+    {
+      "contestId": 1369,
+      "index": "A"
+    },
+    {
+      "contestId": 1312,
+      "index": "A"
+    },
+    {
+      "contestId": 1064,
+      "index": "A"
+    },
+    {
+      "contestId": 900,
+      "index": "A"
+    },
+    {
+      "contestId": 181,
+      "index": "A"
+    }
+  ],
+  "graph matchings": [
+    {
+      "contestId": 2069,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "B"
+    },
+    {
+      "contestId": 266,
+      "index": "B"
+    }
+  ],
+  "graphs": [
+    {
+      "contestId": 1944,
+      "index": "A"
+    },
+    {
+      "contestId": 1797,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "B"
+    },
+    {
+      "contestId": 939,
+      "index": "A"
+    },
+    {
+      "contestId": 755,
+      "index": "A"
+    }
+  ],
+  "greedy": [
+    {
+      "contestId": 2121,
+      "index": "B"
+    },
+    {
+      "contestId": 2118,
+      "index": "A"
+    },
+    {
+      "contestId": 2117,
+      "index": "A"
+    },
+    {
+      "contestId": 2116,
+      "index": "A"
+    },
+    {
+      "contestId": 2113,
+      "index": "A"
+    },
+    {
+      "contestId": 2111,
+      "index": "A"
+    },
+    {
+      "contestId": 2108,
+      "index": "A"
+    },
+    {
+      "contestId": 2107,
+      "index": "A"
+    },
+    {
+      "contestId": 2103,
+      "index": "A"
+    },
+    {
+      "contestId": 2098,
+      "index": "A"
+    },
+    {
+      "contestId": 2096,
+      "index": "A"
+    },
+    {
+      "contestId": 2092,
+      "index": "A"
+    },
+    {
+      "contestId": 2091,
+      "index": "B"
+    },
+    {
+      "contestId": 2091,
+      "index": "A"
+    },
+    {
+      "contestId": 2082,
+      "index": "A"
+    },
+    {
+      "contestId": 2075,
+      "index": "A"
+    },
+    {
+      "contestId": 2074,
+      "index": "B"
+    },
+    {
+      "contestId": 2072,
+      "index": "A"
+    },
+    {
+      "contestId": 2069,
+      "index": "A"
+    },
+    {
+      "contestId": 2065,
+      "index": "A"
+    },
+    {
+      "contestId": 2064,
+      "index": "A"
+    },
+    {
+      "contestId": 2062,
+      "index": "A"
+    },
+    {
+      "contestId": 2059,
+      "index": "A"
+    },
+    {
+      "contestId": 2055,
+      "index": "A"
+    },
+    {
+      "contestId": 2053,
+      "index": "A"
+    },
+    {
+      "contestId": 2051,
+      "index": "A"
+    },
+    {
+      "contestId": 2049,
+      "index": "A"
+    },
+    {
+      "contestId": 2048,
+      "index": "A"
+    },
+    {
+      "contestId": 2044,
+      "index": "C"
+    },
+    {
+      "contestId": 2042,
+      "index": "A"
+    },
+    {
+      "contestId": 2038,
+      "index": "J"
+    },
+    {
+      "contestId": 2036,
+      "index": "B"
+    },
+    {
+      "contestId": 2032,
+      "index": "A"
+    },
+    {
+      "contestId": 2031,
+      "index": "A"
+    },
+    {
+      "contestId": 2030,
+      "index": "A"
+    },
+    {
+      "contestId": 2029,
+      "index": "A"
+    },
+    {
+      "contestId": 2025,
+      "index": "A"
+    },
+    {
+      "contestId": 2024,
+      "index": "A"
+    },
+    {
+      "contestId": 2022,
+      "index": "A"
+    },
+    {
+      "contestId": 2021,
+      "index": "A"
+    },
+    {
+      "contestId": 2020,
+      "index": "A"
+    },
+    {
+      "contestId": 2019,
+      "index": "A"
+    },
+    {
+      "contestId": 2014,
+      "index": "A"
+    },
+    {
+      "contestId": 2008,
+      "index": "A"
+    },
+    {
+      "contestId": 2007,
+      "index": "A"
+    },
+    {
+      "contestId": 2003,
+      "index": "B"
+    },
+    {
+      "contestId": 2003,
+      "index": "A"
+    },
+    {
+      "contestId": 2001,
+      "index": "A"
+    },
+    {
+      "contestId": 1999,
+      "index": "C"
+    },
+    {
+      "contestId": 1996,
+      "index": "B"
+    },
+    {
+      "contestId": 1995,
+      "index": "A"
+    },
+    {
+      "contestId": 1994,
+      "index": "A"
+    },
+    {
+      "contestId": 1993,
+      "index": "A"
+    },
+    {
+      "contestId": 1992,
+      "index": "B"
+    },
+    {
+      "contestId": 1992,
+      "index": "A"
+    },
+    {
+      "contestId": 1991,
+      "index": "A"
+    },
+    {
+      "contestId": 1987,
+      "index": "A"
+    },
+    {
+      "contestId": 1982,
+      "index": "A"
+    },
+    {
+      "contestId": 1981,
+      "index": "A"
+    },
+    {
+      "contestId": 1979,
+      "index": "A"
+    },
+    {
+      "contestId": 1978,
+      "index": "B"
+    },
+    {
+      "contestId": 1978,
+      "index": "A"
+    },
+    {
+      "contestId": 1975,
+      "index": "A"
+    },
+    {
+      "contestId": 1974,
+      "index": "A"
+    },
+    {
+      "contestId": 1972,
+      "index": "A"
+    },
+    {
+      "contestId": 1968,
+      "index": "B"
+    },
+    {
+      "contestId": 1966,
+      "index": "A"
+    },
+    {
+      "contestId": 1957,
+      "index": "A"
+    },
+    {
+      "contestId": 1956,
+      "index": "B"
+    },
+    {
+      "contestId": 1956,
+      "index": "A"
+    },
+    {
+      "contestId": 1946,
+      "index": "A"
+    },
+    {
+      "contestId": 1945,
+      "index": "A"
+    },
+    {
+      "contestId": 1944,
+      "index": "A"
+    },
+    {
+      "contestId": 1934,
+      "index": "A"
+    },
+    {
+      "contestId": 1933,
+      "index": "A"
+    },
+    {
+      "contestId": 1932,
+      "index": "A"
+    },
+    {
+      "contestId": 1931,
+      "index": "B"
+    },
+    {
+      "contestId": 1930,
+      "index": "A"
+    },
+    {
+      "contestId": 1929,
+      "index": "B"
+    },
+    {
+      "contestId": 1929,
+      "index": "A"
+    },
+    {
+      "contestId": 1927,
+      "index": "A"
+    },
+    {
+      "contestId": 1925,
+      "index": "A"
+    },
+    {
+      "contestId": 1923,
+      "index": "A"
+    },
+    {
+      "contestId": 1921,
+      "index": "B"
+    },
+    {
+      "contestId": 1921,
+      "index": "A"
+    },
+    {
+      "contestId": 1920,
+      "index": "A"
+    },
+    {
+      "contestId": 1919,
+      "index": "B"
+    },
+    {
+      "contestId": 1918,
+      "index": "A"
+    },
+    {
+      "contestId": 1903,
+      "index": "A"
+    },
+    {
+      "contestId": 1901,
+      "index": "A"
+    },
+    {
+      "contestId": 1900,
+      "index": "A"
+    },
+    {
+      "contestId": 1895,
+      "index": "B"
+    },
+    {
+      "contestId": 1884,
+      "index": "A"
+    },
+    {
+      "contestId": 1882,
+      "index": "A"
+    },
+    {
+      "contestId": 1879,
+      "index": "A"
+    },
+    {
+      "contestId": 1878,
+      "index": "A"
+    },
+    {
+      "contestId": 1873,
+      "index": "D"
+    },
+    {
+      "contestId": 1873,
+      "index": "B"
+    },
+    {
+      "contestId": 1872,
+      "index": "A"
+    },
+    {
+      "contestId": 1870,
+      "index": "A"
+    },
+    {
+      "contestId": 1864,
+      "index": "A"
+    },
+    {
+      "contestId": 1863,
+      "index": "A"
+    },
+    {
+      "contestId": 1862,
+      "index": "A"
+    },
+    {
+      "contestId": 1858,
+      "index": "A"
+    },
+    {
+      "contestId": 1857,
+      "index": "A"
+    },
+    {
+      "contestId": 1855,
+      "index": "A"
+    },
+    {
+      "contestId": 1853,
+      "index": "A"
+    },
+    {
+      "contestId": 1851,
+      "index": "B"
+    },
+    {
+      "contestId": 1847,
+      "index": "A"
+    },
+    {
+      "contestId": 1843,
+      "index": "B"
+    },
+    {
+      "contestId": 1843,
+      "index": "A"
+    },
+    {
+      "contestId": 1839,
+      "index": "A"
+    },
+    {
+      "contestId": 1834,
+      "index": "A"
+    },
+    {
+      "contestId": 1833,
+      "index": "C"
+    },
+    {
+      "contestId": 1829,
+      "index": "C"
+    },
+    {
+      "contestId": 1825,
+      "index": "A"
+    },
+    {
+      "contestId": 1822,
+      "index": "B"
+    },
+    {
+      "contestId": 1818,
+      "index": "A"
+    },
+    {
+      "contestId": 1811,
+      "index": "A"
+    },
+    {
+      "contestId": 1810,
+      "index": "A"
+    },
+    {
+      "contestId": 1807,
+      "index": "C"
+    },
+    {
+      "contestId": 1807,
+      "index": "B"
+    },
+    {
+      "contestId": 1806,
+      "index": "A"
+    },
+    {
+      "contestId": 1805,
+      "index": "B"
+    },
+    {
+      "contestId": 1804,
+      "index": "A"
+    },
+    {
+      "contestId": 1802,
+      "index": "A"
+    },
+    {
+      "contestId": 1799,
+      "index": "A"
+    },
+    {
+      "contestId": 1798,
+      "index": "A"
+    },
+    {
+      "contestId": 1797,
+      "index": "A"
+    },
+    {
+      "contestId": 1793,
+      "index": "A"
+    },
+    {
+      "contestId": 1792,
+      "index": "A"
+    },
+    {
+      "contestId": 1790,
+      "index": "B"
+    },
+    {
+      "contestId": 1790,
+      "index": "B"
+    },
+    {
+      "contestId": 1780,
+      "index": "A"
+    },
+    {
+      "contestId": 1779,
+      "index": "A"
+    },
+    {
+      "contestId": 1778,
+      "index": "A"
+    },
+    {
+      "contestId": 1777,
+      "index": "A"
+    },
+    {
+      "contestId": 1776,
+      "index": "A"
+    },
+    {
+      "contestId": 1768,
+      "index": "A"
+    },
+    {
+      "contestId": 1767,
+      "index": "B"
+    },
+    {
+      "contestId": 1765,
+      "index": "B"
+    },
+    {
+      "contestId": 1764,
+      "index": "A"
+    },
+    {
+      "contestId": 1763,
+      "index": "A"
+    },
+    {
+      "contestId": 1762,
+      "index": "A"
+    },
+    {
+      "contestId": 1760,
+      "index": "B"
+    },
+    {
+      "contestId": 1754,
+      "index": "B"
+    },
+    {
+      "contestId": 1754,
+      "index": "A"
+    },
+    {
+      "contestId": 1750,
+      "index": "B"
+    },
+    {
+      "contestId": 1749,
+      "index": "A"
+    },
+    {
+      "contestId": 1747,
+      "index": "A"
+    },
+    {
+      "contestId": 1746,
+      "index": "B"
+    },
+    {
+      "contestId": 1746,
+      "index": "A"
+    },
+    {
+      "contestId": 1744,
+      "index": "A"
+    },
+    {
+      "contestId": 1743,
+      "index": "B"
+    },
+    {
+      "contestId": 1742,
+      "index": "B"
+    },
+    {
+      "contestId": 1740,
+      "index": "B"
+    },
+    {
+      "contestId": 1738,
+      "index": "A"
+    },
+    {
+      "contestId": 1736,
+      "index": "A"
+    },
+    {
+      "contestId": 1735,
+      "index": "A"
+    },
+    {
+      "contestId": 1734,
+      "index": "A"
+    },
+    {
+      "contestId": 1733,
+      "index": "A"
+    },
+    {
+      "contestId": 1731,
+      "index": "A"
+    },
+    {
+      "contestId": 1730,
+      "index": "A"
+    },
+    {
+      "contestId": 1729,
+      "index": "B"
+    },
+    {
+      "contestId": 1728,
+      "index": "B"
+    },
+    {
+      "contestId": 1728,
+      "index": "A"
+    },
+    {
+      "contestId": 1721,
+      "index": "A"
+    },
+    {
+      "contestId": 1720,
+      "index": "B"
+    },
+    {
+      "contestId": 1716,
+      "index": "A"
+    },
+    {
+      "contestId": 1715,
+      "index": "A"
+    },
+    {
+      "contestId": 1714,
+      "index": "C"
+    },
+    {
+      "contestId": 1714,
+      "index": "B"
+    },
+    {
+      "contestId": 1713,
+      "index": "A"
+    },
+    {
+      "contestId": 1712,
+      "index": "B"
+    },
+    {
+      "contestId": 1712,
+      "index": "A"
+    },
+    {
+      "contestId": 1709,
+      "index": "A"
+    },
+    {
+      "contestId": 1708,
+      "index": "A"
+    },
+    {
+      "contestId": 1706,
+      "index": "A"
+    },
+    {
+      "contestId": 1705,
+      "index": "A"
+    },
+    {
+      "contestId": 1704,
+      "index": "A"
+    },
+    {
+      "contestId": 1702,
+      "index": "B"
+    },
+    {
+      "contestId": 1701,
+      "index": "B"
+    },
+    {
+      "contestId": 1700,
+      "index": "A"
+    },
+    {
+      "contestId": 1698,
+      "index": "B"
+    },
+    {
+      "contestId": 1697,
+      "index": "A"
+    },
+    {
+      "contestId": 1696,
+      "index": "A"
+    },
+    {
+      "contestId": 1694,
+      "index": "A"
+    },
+    {
+      "contestId": 1692,
+      "index": "B"
+    },
+    {
+      "contestId": 1691,
+      "index": "A"
+    },
+    {
+      "contestId": 1690,
+      "index": "C"
+    },
+    {
+      "contestId": 1690,
+      "index": "B"
+    },
+    {
+      "contestId": 1690,
+      "index": "A"
+    },
+    {
+      "contestId": 1689,
+      "index": "A"
+    },
+    {
+      "contestId": 1688,
+      "index": "B"
+    },
+    {
+      "contestId": 1686,
+      "index": "B"
+    },
+    {
+      "contestId": 1686,
+      "index": "A"
+    },
+    {
+      "contestId": 1682,
+      "index": "A"
+    },
+    {
+      "contestId": 1681,
+      "index": "A"
+    },
+    {
+      "contestId": 1676,
+      "index": "C"
+    },
+    {
+      "contestId": 1676,
+      "index": "B"
+    },
+    {
+      "contestId": 1675,
+      "index": "A"
+    },
+    {
+      "contestId": 1673,
+      "index": "A"
+    },
+    {
+      "contestId": 1670,
+      "index": "A"
+    },
+    {
+      "contestId": 1669,
+      "index": "C"
+    },
+    {
+      "contestId": 1669,
+      "index": "C"
+    },
+    {
+      "contestId": 1661,
+      "index": "A"
+    },
+    {
+      "contestId": 1660,
+      "index": "A"
+    },
+    {
+      "contestId": 1657,
+      "index": "B"
+    },
+    {
+      "contestId": 1654,
+      "index": "A"
+    },
+    {
+      "contestId": 1651,
+      "index": "B"
+    },
+    {
+      "contestId": 1646,
+      "index": "B"
+    },
+    {
+      "contestId": 1638,
+      "index": "A"
+    },
+    {
+      "contestId": 1635,
+      "index": "B"
+    },
+    {
+      "contestId": 1635,
+      "index": "A"
+    },
+    {
+      "contestId": 1634,
+      "index": "A"
+    },
+    {
+      "contestId": 1633,
+      "index": "B"
+    },
+    {
+      "contestId": 1631,
+      "index": "A"
+    },
+    {
+      "contestId": 1629,
+      "index": "B"
+    },
+    {
+      "contestId": 1629,
+      "index": "A"
+    },
+    {
+      "contestId": 1625,
+      "index": "A"
+    },
+    {
+      "contestId": 1617,
+      "index": "A"
+    },
+    {
+      "contestId": 1615,
+      "index": "A"
+    },
+    {
+      "contestId": 1614,
+      "index": "A"
+    },
+    {
+      "contestId": 1604,
+      "index": "A"
+    },
+    {
+      "contestId": 1592,
+      "index": "A"
+    },
+    {
+      "contestId": 1573,
+      "index": "A"
+    },
+    {
+      "contestId": 1566,
+      "index": "B"
+    },
+    {
+      "contestId": 1566,
+      "index": "A"
+    },
+    {
+      "contestId": 1562,
+      "index": "A"
+    },
+    {
+      "contestId": 1554,
+      "index": "A"
+    },
+    {
+      "contestId": 1551,
+      "index": "B1"
+    },
+    {
+      "contestId": 1551,
+      "index": "A"
+    },
+    {
+      "contestId": 1550,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "B"
+    },
+    {
+      "contestId": 1547,
+      "index": "B"
+    },
+    {
+      "contestId": 1546,
+      "index": "A"
+    },
+    {
+      "contestId": 1541,
+      "index": "A"
+    },
+    {
+      "contestId": 1538,
+      "index": "B"
+    },
+    {
+      "contestId": 1538,
+      "index": "A"
+    },
+    {
+      "contestId": 1537,
+      "index": "A"
+    },
+    {
+      "contestId": 1530,
+      "index": "A"
+    },
+    {
+      "contestId": 1529,
+      "index": "A"
+    },
+    {
+      "contestId": 1517,
+      "index": "A"
+    },
+    {
+      "contestId": 1516,
+      "index": "A"
+    },
+    {
+      "contestId": 1515,
+      "index": "A"
+    },
+    {
+      "contestId": 1511,
+      "index": "A"
+    },
+    {
+      "contestId": 1497,
+      "index": "A"
+    },
+    {
+      "contestId": 1493,
+      "index": "A"
+    },
+    {
+      "contestId": 1491,
+      "index": "A"
+    },
+    {
+      "contestId": 1490,
+      "index": "A"
+    },
+    {
+      "contestId": 1481,
+      "index": "A"
+    },
+    {
+      "contestId": 1480,
+      "index": "A"
+    },
+    {
+      "contestId": 1478,
+      "index": "A"
+    },
+    {
+      "contestId": 1474,
+      "index": "A"
+    },
+    {
+      "contestId": 1473,
+      "index": "A"
+    },
+    {
+      "contestId": 1472,
+      "index": "B"
+    },
+    {
+      "contestId": 1472,
+      "index": "A"
+    },
+    {
+      "contestId": 1468,
+      "index": "E"
+    },
+    {
+      "contestId": 1466,
+      "index": "B"
+    },
+    {
+      "contestId": 1461,
+      "index": "A"
+    },
+    {
+      "contestId": 1452,
+      "index": "C"
+    },
+    {
+      "contestId": 1451,
+      "index": "A"
+    },
+    {
+      "contestId": 1445,
+      "index": "A"
+    },
+    {
+      "contestId": 1437,
+      "index": "A"
+    },
+    {
+      "contestId": 1433,
+      "index": "B"
+    },
+    {
+      "contestId": 1430,
+      "index": "B"
+    },
+    {
+      "contestId": 1421,
+      "index": "A"
+    },
+    {
+      "contestId": 1417,
+      "index": "A"
+    },
+    {
+      "contestId": 1409,
+      "index": "A"
+    },
+    {
+      "contestId": 1399,
+      "index": "B"
+    },
+    {
+      "contestId": 1399,
+      "index": "A"
+    },
+    {
+      "contestId": 1398,
+      "index": "B"
+    },
+    {
+      "contestId": 1397,
+      "index": "A"
+    },
+    {
+      "contestId": 1393,
+      "index": "A"
+    },
+    {
+      "contestId": 1392,
+      "index": "A"
+    },
+    {
+      "contestId": 1391,
+      "index": "B"
+    },
+    {
+      "contestId": 1389,
+      "index": "A"
+    },
+    {
+      "contestId": 1388,
+      "index": "A"
+    },
+    {
+      "contestId": 1385,
+      "index": "B"
+    },
+    {
+      "contestId": 1370,
+      "index": "A"
+    },
+    {
+      "contestId": 1368,
+      "index": "A"
+    },
+    {
+      "contestId": 1367,
+      "index": "B"
+    },
+    {
+      "contestId": 1360,
+      "index": "B"
+    },
+    {
+      "contestId": 1360,
+      "index": "A"
+    },
+    {
+      "contestId": 1358,
+      "index": "A"
+    },
+    {
+      "contestId": 1353,
+      "index": "B"
+    },
+    {
+      "contestId": 1353,
+      "index": "A"
+    },
+    {
+      "contestId": 1348,
+      "index": "A"
+    },
+    {
+      "contestId": 1325,
+      "index": "B"
+    },
+    {
+      "contestId": 1325,
+      "index": "A"
+    },
+    {
+      "contestId": 1323,
+      "index": "A"
+    },
+    {
+      "contestId": 1312,
+      "index": "A"
+    },
+    {
+      "contestId": 1311,
+      "index": "A"
+    },
+    {
+      "contestId": 1307,
+      "index": "A"
+    },
+    {
+      "contestId": 1305,
+      "index": "A"
+    },
+    {
+      "contestId": 1287,
+      "index": "A"
+    },
+    {
+      "contestId": 1271,
+      "index": "A"
+    },
+    {
+      "contestId": 1270,
+      "index": "A"
+    },
+    {
+      "contestId": 1257,
+      "index": "A"
+    },
+    {
+      "contestId": 1236,
+      "index": "A"
+    },
+    {
+      "contestId": 1209,
+      "index": "A"
+    },
+    {
+      "contestId": 1207,
+      "index": "A"
+    },
+    {
+      "contestId": 1178,
+      "index": "A"
+    },
+    {
+      "contestId": 1176,
+      "index": "A"
+    },
+    {
+      "contestId": 1173,
+      "index": "A"
+    },
+    {
+      "contestId": 1167,
+      "index": "A"
+    },
+    {
+      "contestId": 1152,
+      "index": "A"
+    },
+    {
+      "contestId": 1150,
+      "index": "A"
+    },
+    {
+      "contestId": 1148,
+      "index": "A"
+    },
+    {
+      "contestId": 1114,
+      "index": "A"
+    },
+    {
+      "contestId": 1096,
+      "index": "A"
+    },
+    {
+      "contestId": 1061,
+      "index": "A"
+    },
+    {
+      "contestId": 1041,
+      "index": "A"
+    },
+    {
+      "contestId": 996,
+      "index": "A"
+    },
+    {
+      "contestId": 978,
+      "index": "B"
+    },
+    {
+      "contestId": 946,
+      "index": "A"
+    },
+    {
+      "contestId": 931,
+      "index": "A"
+    },
+    {
+      "contestId": 919,
+      "index": "A"
+    },
+    {
+      "contestId": 910,
+      "index": "A"
+    },
+    {
+      "contestId": 899,
+      "index": "A"
+    },
+    {
+      "contestId": 859,
+      "index": "A"
+    },
+    {
+      "contestId": 749,
+      "index": "A"
+    },
+    {
+      "contestId": 734,
+      "index": "B"
+    },
+    {
+      "contestId": 702,
+      "index": "A"
+    },
+    {
+      "contestId": 701,
+      "index": "A"
+    },
+    {
+      "contestId": 609,
+      "index": "A"
+    },
+    {
+      "contestId": 490,
+      "index": "A"
+    },
+    {
+      "contestId": 469,
+      "index": "A"
+    },
+    {
+      "contestId": 432,
+      "index": "A"
+    },
+    {
+      "contestId": 381,
+      "index": "A"
+    },
+    {
+      "contestId": 339,
+      "index": "A"
+    },
+    {
+      "contestId": 231,
+      "index": "A"
+    },
+    {
+      "contestId": 202,
+      "index": "A"
+    },
+    {
+      "contestId": 50,
+      "index": "A"
+    }
+  ],
+  "hashing": [],
+  "implementation": [
+    {
+      "contestId": 2117,
+      "index": "A"
+    },
+    {
+      "contestId": 2112,
+      "index": "A"
+    },
+    {
+      "contestId": 2111,
+      "index": "A"
+    },
+    {
+      "contestId": 2110,
+      "index": "A"
+    },
+    {
+      "contestId": 2109,
+      "index": "A"
+    },
+    {
+      "contestId": 2103,
+      "index": "A"
+    },
+    {
+      "contestId": 2090,
+      "index": "A"
+    },
+    {
+      "contestId": 2074,
+      "index": "A"
+    },
+    {
+      "contestId": 2072,
+      "index": "A"
+    },
+    {
+      "contestId": 2065,
+      "index": "A"
+    },
+    {
+      "contestId": 2050,
+      "index": "A"
+    },
+    {
+      "contestId": 2049,
+      "index": "A"
+    },
+    {
+      "contestId": 2048,
+      "index": "A"
+    },
+    {
+      "contestId": 2047,
+      "index": "A"
+    },
+    {
+      "contestId": 2044,
+      "index": "B"
+    },
+    {
+      "contestId": 2038,
+      "index": "N"
+    },
+    {
+      "contestId": 2038,
+      "index": "J"
+    },
+    {
+      "contestId": 2037,
+      "index": "B"
+    },
+    {
+      "contestId": 2037,
+      "index": "A"
+    },
+    {
+      "contestId": 2036,
+      "index": "A"
+    },
+    {
+      "contestId": 2035,
+      "index": "A"
+    },
+    {
+      "contestId": 2033,
+      "index": "A"
+    },
+    {
+      "contestId": 2032,
+      "index": "A"
+    },
+    {
+      "contestId": 2027,
+      "index": "A"
+    },
+    {
+      "contestId": 2022,
+      "index": "A"
+    },
+    {
+      "contestId": 2014,
+      "index": "A"
+    },
+    {
+      "contestId": 2010,
+      "index": "B"
+    },
+    {
+      "contestId": 2010,
+      "index": "A"
+    },
+    {
+      "contestId": 2009,
+      "index": "B"
+    },
+    {
+      "contestId": 2004,
+      "index": "A"
+    },
+    {
+      "contestId": 2002,
+      "index": "A"
+    },
+    {
+      "contestId": 2001,
+      "index": "A"
+    },
+    {
+      "contestId": 2000,
+      "index": "A"
+    },
+    {
+      "contestId": 1999,
+      "index": "C"
+    },
+    {
+      "contestId": 1999,
+      "index": "A"
+    },
+    {
+      "contestId": 1998,
+      "index": "A"
+    },
+    {
+      "contestId": 1997,
+      "index": "A"
+    },
+    {
+      "contestId": 1996,
+      "index": "B"
+    },
+    {
+      "contestId": 1995,
+      "index": "A"
+    },
+    {
+      "contestId": 1994,
+      "index": "A"
+    },
+    {
+      "contestId": 1993,
+      "index": "A"
+    },
+    {
+      "contestId": 1991,
+      "index": "A"
+    },
+    {
+      "contestId": 1989,
+      "index": "A"
+    },
+    {
+      "contestId": 1985,
+      "index": "A"
+    },
+    {
+      "contestId": 1982,
+      "index": "A"
+    },
+    {
+      "contestId": 1979,
+      "index": "A"
+    },
+    {
+      "contestId": 1976,
+      "index": "A"
+    },
+    {
+      "contestId": 1975,
+      "index": "A"
+    },
+    {
+      "contestId": 1974,
+      "index": "B"
+    },
+    {
+      "contestId": 1971,
+      "index": "B"
+    },
+    {
+      "contestId": 1971,
+      "index": "A"
+    },
+    {
+      "contestId": 1969,
+      "index": "A"
+    },
+    {
+      "contestId": 1950,
+      "index": "C"
+    },
+    {
+      "contestId": 1950,
+      "index": "B"
+    },
+    {
+      "contestId": 1950,
+      "index": "A"
+    },
+    {
+      "contestId": 1946,
+      "index": "A"
+    },
+    {
+      "contestId": 1937,
+      "index": "A"
+    },
+    {
+      "contestId": 1933,
+      "index": "B"
+    },
+    {
+      "contestId": 1932,
+      "index": "A"
+    },
+    {
+      "contestId": 1926,
+      "index": "B"
+    },
+    {
+      "contestId": 1926,
+      "index": "A"
+    },
+    {
+      "contestId": 1923,
+      "index": "A"
+    },
+    {
+      "contestId": 1922,
+      "index": "A"
+    },
+    {
+      "contestId": 1921,
+      "index": "B"
+    },
+    {
+      "contestId": 1918,
+      "index": "A"
+    },
+    {
+      "contestId": 1916,
+      "index": "A"
+    },
+    {
+      "contestId": 1915,
+      "index": "C"
+    },
+    {
+      "contestId": 1915,
+      "index": "B"
+    },
+    {
+      "contestId": 1915,
+      "index": "A"
+    },
+    {
+      "contestId": 1914,
+      "index": "A"
+    },
+    {
+      "contestId": 1913,
+      "index": "A"
+    },
+    {
+      "contestId": 1909,
+      "index": "A"
+    },
+    {
+      "contestId": 1907,
+      "index": "A"
+    },
+    {
+      "contestId": 1900,
+      "index": "A"
+    },
+    {
+      "contestId": 1898,
+      "index": "A"
+    },
+    {
+      "contestId": 1894,
+      "index": "A"
+    },
+    {
+      "contestId": 1890,
+      "index": "B"
+    },
+    {
+      "contestId": 1873,
+      "index": "D"
+    },
+    {
+      "contestId": 1873,
+      "index": "C"
+    },
+    {
+      "contestId": 1873,
+      "index": "A"
+    },
+    {
+      "contestId": 1864,
+      "index": "A"
+    },
+    {
+      "contestId": 1863,
+      "index": "A"
+    },
+    {
+      "contestId": 1862,
+      "index": "A"
+    },
+    {
+      "contestId": 1856,
+      "index": "A"
+    },
+    {
+      "contestId": 1850,
+      "index": "C"
+    },
+    {
+      "contestId": 1850,
+      "index": "B"
+    },
+    {
+      "contestId": 1850,
+      "index": "A"
+    },
+    {
+      "contestId": 1849,
+      "index": "A"
+    },
+    {
+      "contestId": 1846,
+      "index": "B"
+    },
+    {
+      "contestId": 1846,
+      "index": "A"
+    },
+    {
+      "contestId": 1845,
+      "index": "A"
+    },
+    {
+      "contestId": 1840,
+      "index": "A"
+    },
+    {
+      "contestId": 1839,
+      "index": "A"
+    },
+    {
+      "contestId": 1836,
+      "index": "A"
+    },
+    {
+      "contestId": 1833,
+      "index": "A"
+    },
+    {
+      "contestId": 1829,
+      "index": "C"
+    },
+    {
+      "contestId": 1829,
+      "index": "B"
+    },
+    {
+      "contestId": 1829,
+      "index": "A"
+    },
+    {
+      "contestId": 1822,
+      "index": "A"
+    },
+    {
+      "contestId": 1820,
+      "index": "A"
+    },
+    {
+      "contestId": 1818,
+      "index": "A"
+    },
+    {
+      "contestId": 1814,
+      "index": "A"
+    },
+    {
+      "contestId": 1809,
+      "index": "A"
+    },
+    {
+      "contestId": 1807,
+      "index": "C"
+    },
+    {
+      "contestId": 1807,
+      "index": "A"
+    },
+    {
+      "contestId": 1802,
+      "index": "A"
+    },
+    {
+      "contestId": 1800,
+      "index": "A"
+    },
+    {
+      "contestId": 1799,
+      "index": "A"
+    },
+    {
+      "contestId": 1798,
+      "index": "A"
+    },
+    {
+      "contestId": 1797,
+      "index": "A"
+    },
+    {
+      "contestId": 1796,
+      "index": "A"
+    },
+    {
+      "contestId": 1795,
+      "index": "A"
+    },
+    {
+      "contestId": 1791,
+      "index": "C"
+    },
+    {
+      "contestId": 1791,
+      "index": "B"
+    },
+    {
+      "contestId": 1791,
+      "index": "A"
+    },
+    {
+      "contestId": 1790,
+      "index": "A"
+    },
+    {
+      "contestId": 1789,
+      "index": "B"
+    },
+    {
+      "contestId": 1788,
+      "index": "A"
+    },
+    {
+      "contestId": 1786,
+      "index": "A2"
+    },
+    {
+      "contestId": 1786,
+      "index": "A1"
+    },
+    {
+      "contestId": 1778,
+      "index": "A"
+    },
+    {
+      "contestId": 1775,
+      "index": "A1"
+    },
+    {
+      "contestId": 1772,
+      "index": "B"
+    },
+    {
+      "contestId": 1772,
+      "index": "A"
+    },
+    {
+      "contestId": 1767,
+      "index": "A"
+    },
+    {
+      "contestId": 1766,
+      "index": "A"
+    },
+    {
+      "contestId": 1760,
+      "index": "C"
+    },
+    {
+      "contestId": 1760,
+      "index": "B"
+    },
+    {
+      "contestId": 1760,
+      "index": "A"
+    },
+    {
+      "contestId": 1759,
+      "index": "A"
+    },
+    {
+      "contestId": 1750,
+      "index": "B"
+    },
+    {
+      "contestId": 1750,
+      "index": "A"
+    },
+    {
+      "contestId": 1749,
+      "index": "A"
+    },
+    {
+      "contestId": 1744,
+      "index": "B"
+    },
+    {
+      "contestId": 1744,
+      "index": "A"
+    },
+    {
+      "contestId": 1743,
+      "index": "A"
+    },
+    {
+      "contestId": 1742,
+      "index": "B"
+    },
+    {
+      "contestId": 1742,
+      "index": "A"
+    },
+    {
+      "contestId": 1741,
+      "index": "A"
+    },
+    {
+      "contestId": 1741,
+      "index": "A"
+    },
+    {
+      "contestId": 1739,
+      "index": "A"
+    },
+    {
+      "contestId": 1738,
+      "index": "A"
+    },
+    {
+      "contestId": 1728,
+      "index": "A"
+    },
+    {
+      "contestId": 1722,
+      "index": "C"
+    },
+    {
+      "contestId": 1722,
+      "index": "B"
+    },
+    {
+      "contestId": 1722,
+      "index": "A"
+    },
+    {
+      "contestId": 1721,
+      "index": "A"
+    },
+    {
+      "contestId": 1714,
+      "index": "B"
+    },
+    {
+      "contestId": 1713,
+      "index": "A"
+    },
+    {
+      "contestId": 1712,
+      "index": "A"
+    },
+    {
+      "contestId": 1709,
+      "index": "A"
+    },
+    {
+      "contestId": 1703,
+      "index": "C"
+    },
+    {
+      "contestId": 1703,
+      "index": "B"
+    },
+    {
+      "contestId": 1703,
+      "index": "A"
+    },
+    {
+      "contestId": 1701,
+      "index": "A"
+    },
+    {
+      "contestId": 1698,
+      "index": "B"
+    },
+    {
+      "contestId": 1697,
+      "index": "A"
+    },
+    {
+      "contestId": 1694,
+      "index": "A"
+    },
+    {
+      "contestId": 1692,
+      "index": "C"
+    },
+    {
+      "contestId": 1692,
+      "index": "A"
+    },
+    {
+      "contestId": 1690,
+      "index": "C"
+    },
+    {
+      "contestId": 1690,
+      "index": "B"
+    },
+    {
+      "contestId": 1689,
+      "index": "A"
+    },
+    {
+      "contestId": 1681,
+      "index": "B"
+    },
+    {
+      "contestId": 1680,
+      "index": "B"
+    },
+    {
+      "contestId": 1678,
+      "index": "B1"
+    },
+    {
+      "contestId": 1678,
+      "index": "A"
+    },
+    {
+      "contestId": 1676,
+      "index": "C"
+    },
+    {
+      "contestId": 1676,
+      "index": "C"
+    },
+    {
+      "contestId": 1676,
+      "index": "A"
+    },
+    {
+      "contestId": 1672,
+      "index": "B"
+    },
+    {
+      "contestId": 1672,
+      "index": "A"
+    },
+    {
+      "contestId": 1671,
+      "index": "A"
+    },
+    {
+      "contestId": 1670,
+      "index": "A"
+    },
+    {
+      "contestId": 1669,
+      "index": "C"
+    },
+    {
+      "contestId": 1669,
+      "index": "B"
+    },
+    {
+      "contestId": 1669,
+      "index": "A"
+    },
+    {
+      "contestId": 1668,
+      "index": "A"
+    },
+    {
+      "contestId": 1658,
+      "index": "A"
+    },
+    {
+      "contestId": 1654,
+      "index": "A"
+    },
+    {
+      "contestId": 1651,
+      "index": "A"
+    },
+    {
+      "contestId": 1650,
+      "index": "A"
+    },
+    {
+      "contestId": 1649,
+      "index": "A"
+    },
+    {
+      "contestId": 1647,
+      "index": "A"
+    },
+    {
+      "contestId": 1644,
+      "index": "B"
+    },
+    {
+      "contestId": 1644,
+      "index": "A"
+    },
+    {
+      "contestId": 1632,
+      "index": "A"
+    },
+    {
+      "contestId": 1627,
+      "index": "A"
+    },
+    {
+      "contestId": 1623,
+      "index": "A"
+    },
+    {
+      "contestId": 1620,
+      "index": "A"
+    },
+    {
+      "contestId": 1619,
+      "index": "B"
+    },
+    {
+      "contestId": 1619,
+      "index": "A"
+    },
+    {
+      "contestId": 1618,
+      "index": "B"
+    },
+    {
+      "contestId": 1616,
+      "index": "A"
+    },
+    {
+      "contestId": 1607,
+      "index": "A"
+    },
+    {
+      "contestId": 1602,
+      "index": "A"
+    },
+    {
+      "contestId": 1598,
+      "index": "A"
+    },
+    {
+      "contestId": 1585,
+      "index": "A"
+    },
+    {
+      "contestId": 1569,
+      "index": "A"
+    },
+    {
+      "contestId": 1567,
+      "index": "A"
+    },
+    {
+      "contestId": 1561,
+      "index": "A"
+    },
+    {
+      "contestId": 1560,
+      "index": "C"
+    },
+    {
+      "contestId": 1560,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "B"
+    },
+    {
+      "contestId": 1547,
+      "index": "B"
+    },
+    {
+      "contestId": 1547,
+      "index": "A"
+    },
+    {
+      "contestId": 1541,
+      "index": "A"
+    },
+    {
+      "contestId": 1539,
+      "index": "B"
+    },
+    {
+      "contestId": 1535,
+      "index": "A"
+    },
+    {
+      "contestId": 1534,
+      "index": "A"
+    },
+    {
+      "contestId": 1530,
+      "index": "B"
+    },
+    {
+      "contestId": 1523,
+      "index": "A"
+    },
+    {
+      "contestId": 1520,
+      "index": "A"
+    },
+    {
+      "contestId": 1513,
+      "index": "A"
+    },
+    {
+      "contestId": 1512,
+      "index": "B"
+    },
+    {
+      "contestId": 1512,
+      "index": "A"
+    },
+    {
+      "contestId": 1501,
+      "index": "A"
+    },
+    {
+      "contestId": 1491,
+      "index": "A"
+    },
+    {
+      "contestId": 1487,
+      "index": "A"
+    },
+    {
+      "contestId": 1473,
+      "index": "A"
+    },
+    {
+      "contestId": 1462,
+      "index": "B"
+    },
+    {
+      "contestId": 1462,
+      "index": "A"
+    },
+    {
+      "contestId": 1454,
+      "index": "B"
+    },
+    {
+      "contestId": 1453,
+      "index": "A"
+    },
+    {
+      "contestId": 1440,
+      "index": "A"
+    },
+    {
+      "contestId": 1438,
+      "index": "A"
+    },
+    {
+      "contestId": 1433,
+      "index": "B"
+    },
+    {
+      "contestId": 1433,
+      "index": "A"
+    },
+    {
+      "contestId": 1430,
+      "index": "B"
+    },
+    {
+      "contestId": 1426,
+      "index": "A"
+    },
+    {
+      "contestId": 1411,
+      "index": "A"
+    },
+    {
+      "contestId": 1392,
+      "index": "B"
+    },
+    {
+      "contestId": 1391,
+      "index": "B"
+    },
+    {
+      "contestId": 1372,
+      "index": "A"
+    },
+    {
+      "contestId": 1370,
+      "index": "A"
+    },
+    {
+      "contestId": 1368,
+      "index": "A"
+    },
+    {
+      "contestId": 1367,
+      "index": "A"
+    },
+    {
+      "contestId": 1352,
+      "index": "A"
+    },
+    {
+      "contestId": 1351,
+      "index": "A"
+    },
+    {
+      "contestId": 1325,
+      "index": "B"
+    },
+    {
+      "contestId": 1323,
+      "index": "A"
+    },
+    {
+      "contestId": 1316,
+      "index": "A"
+    },
+    {
+      "contestId": 1315,
+      "index": "A"
+    },
+    {
+      "contestId": 1311,
+      "index": "A"
+    },
+    {
+      "contestId": 1307,
+      "index": "A"
+    },
+    {
+      "contestId": 1303,
+      "index": "A"
+    },
+    {
+      "contestId": 1301,
+      "index": "A"
+    },
+    {
+      "contestId": 1300,
+      "index": "A"
+    },
+    {
+      "contestId": 1287,
+      "index": "A"
+    },
+    {
+      "contestId": 1284,
+      "index": "A"
+    },
+    {
+      "contestId": 1281,
+      "index": "A"
+    },
+    {
+      "contestId": 1250,
+      "index": "F"
+    },
+    {
+      "contestId": 1243,
+      "index": "A"
+    },
+    {
+      "contestId": 1230,
+      "index": "A"
+    },
+    {
+      "contestId": 1228,
+      "index": "A"
+    },
+    {
+      "contestId": 1220,
+      "index": "A"
+    },
+    {
+      "contestId": 1209,
+      "index": "A"
+    },
+    {
+      "contestId": 1207,
+      "index": "A"
+    },
+    {
+      "contestId": 1200,
+      "index": "A"
+    },
+    {
+      "contestId": 1186,
+      "index": "A"
+    },
+    {
+      "contestId": 1183,
+      "index": "A"
+    },
+    {
+      "contestId": 1180,
+      "index": "A"
+    },
+    {
+      "contestId": 1176,
+      "index": "A"
+    },
+    {
+      "contestId": 1162,
+      "index": "A"
+    },
+    {
+      "contestId": 1159,
+      "index": "A"
+    },
+    {
+      "contestId": 1152,
+      "index": "A"
+    },
+    {
+      "contestId": 1150,
+      "index": "A"
+    },
+    {
+      "contestId": 1146,
+      "index": "A"
+    },
+    {
+      "contestId": 1144,
+      "index": "A"
+    },
+    {
+      "contestId": 1143,
+      "index": "A"
+    },
+    {
+      "contestId": 1139,
+      "index": "A"
+    },
+    {
+      "contestId": 1136,
+      "index": "A"
+    },
+    {
+      "contestId": 1130,
+      "index": "A"
+    },
+    {
+      "contestId": 1114,
+      "index": "A"
+    },
+    {
+      "contestId": 1108,
+      "index": "A"
+    },
+    {
+      "contestId": 1106,
+      "index": "A"
+    },
+    {
+      "contestId": 1104,
+      "index": "A"
+    },
+    {
+      "contestId": 1099,
+      "index": "A"
+    },
+    {
+      "contestId": 1097,
+      "index": "A"
+    },
+    {
+      "contestId": 1096,
+      "index": "A"
+    },
+    {
+      "contestId": 1095,
+      "index": "A"
+    },
+    {
+      "contestId": 1092,
+      "index": "A"
+    },
+    {
+      "contestId": 1091,
+      "index": "A"
+    },
+    {
+      "contestId": 1085,
+      "index": "A"
+    },
+    {
+      "contestId": 1075,
+      "index": "A"
+    },
+    {
+      "contestId": 1065,
+      "index": "A"
+    },
+    {
+      "contestId": 1061,
+      "index": "A"
+    },
+    {
+      "contestId": 1056,
+      "index": "A"
+    },
+    {
+      "contestId": 1054,
+      "index": "A"
+    },
+    {
+      "contestId": 1043,
+      "index": "A"
+    },
+    {
+      "contestId": 1041,
+      "index": "A"
+    },
+    {
+      "contestId": 1038,
+      "index": "A"
+    },
+    {
+      "contestId": 1031,
+      "index": "A"
+    },
+    {
+      "contestId": 1030,
+      "index": "A"
+    },
+    {
+      "contestId": 1028,
+      "index": "A"
+    },
+    {
+      "contestId": 1017,
+      "index": "A"
+    },
+    {
+      "contestId": 1015,
+      "index": "A"
+    },
+    {
+      "contestId": 1009,
+      "index": "A"
+    },
+    {
+      "contestId": 1006,
+      "index": "A"
+    },
+    {
+      "contestId": 1005,
+      "index": "A"
+    },
+    {
+      "contestId": 1003,
+      "index": "A"
+    },
+    {
+      "contestId": 999,
+      "index": "A"
+    },
+    {
+      "contestId": 994,
+      "index": "A"
+    },
+    {
+      "contestId": 992,
+      "index": "A"
+    },
+    {
+      "contestId": 988,
+      "index": "A"
+    },
+    {
+      "contestId": 987,
+      "index": "A"
+    },
+    {
+      "contestId": 978,
+      "index": "A"
+    },
+    {
+      "contestId": 977,
+      "index": "A"
+    },
+    {
+      "contestId": 976,
+      "index": "A"
+    },
+    {
+      "contestId": 954,
+      "index": "A"
+    },
+    {
+      "contestId": 950,
+      "index": "A"
+    },
+    {
+      "contestId": 938,
+      "index": "A"
+    },
+    {
+      "contestId": 937,
+      "index": "A"
+    },
+    {
+      "contestId": 935,
+      "index": "A"
+    },
+    {
+      "contestId": 931,
+      "index": "A"
+    },
+    {
+      "contestId": 919,
+      "index": "A"
+    },
+    {
+      "contestId": 918,
+      "index": "A"
+    },
+    {
+      "contestId": 912,
+      "index": "A"
+    },
+    {
+      "contestId": 910,
+      "index": "A"
+    },
+    {
+      "contestId": 908,
+      "index": "A"
+    },
+    {
+      "contestId": 900,
+      "index": "A"
+    },
+    {
+      "contestId": 898,
+      "index": "A"
+    },
+    {
+      "contestId": 897,
+      "index": "A"
+    },
+    {
+      "contestId": 888,
+      "index": "A"
+    },
+    {
+      "contestId": 884,
+      "index": "A"
+    },
+    {
+      "contestId": 873,
+      "index": "A"
+    },
+    {
+      "contestId": 867,
+      "index": "A"
+    },
+    {
+      "contestId": 859,
+      "index": "A"
+    },
+    {
+      "contestId": 855,
+      "index": "A"
+    },
+    {
+      "contestId": 851,
+      "index": "A"
+    },
+    {
+      "contestId": 837,
+      "index": "A"
+    },
+    {
+      "contestId": 831,
+      "index": "B"
+    },
+    {
+      "contestId": 822,
+      "index": "A"
+    },
+    {
+      "contestId": 821,
+      "index": "A"
+    },
+    {
+      "contestId": 818,
+      "index": "A"
+    },
+    {
+      "contestId": 811,
+      "index": "A"
+    },
+    {
+      "contestId": 802,
+      "index": "G"
+    },
+    {
+      "contestId": 796,
+      "index": "A"
+    },
+    {
+      "contestId": 794,
+      "index": "A"
+    },
+    {
+      "contestId": 791,
+      "index": "A"
+    },
+    {
+      "contestId": 785,
+      "index": "A"
+    },
+    {
+      "contestId": 780,
+      "index": "A"
+    },
+    {
+      "contestId": 770,
+      "index": "A"
+    },
+    {
+      "contestId": 769,
+      "index": "A"
+    },
+    {
+      "contestId": 764,
+      "index": "A"
+    },
+    {
+      "contestId": 760,
+      "index": "A"
+    },
+    {
+      "contestId": 758,
+      "index": "A"
+    },
+    {
+      "contestId": 750,
+      "index": "A"
+    },
+    {
+      "contestId": 749,
+      "index": "A"
+    },
+    {
+      "contestId": 748,
+      "index": "A"
+    },
+    {
+      "contestId": 746,
+      "index": "A"
+    },
+    {
+      "contestId": 735,
+      "index": "A"
+    },
+    {
+      "contestId": 734,
+      "index": "B"
+    },
+    {
+      "contestId": 734,
+      "index": "A"
+    },
+    {
+      "contestId": 732,
+      "index": "A"
+    },
+    {
+      "contestId": 731,
+      "index": "A"
+    },
+    {
+      "contestId": 723,
+      "index": "A"
+    },
+    {
+      "contestId": 721,
+      "index": "A"
+    },
+    {
+      "contestId": 716,
+      "index": "A"
+    },
+    {
+      "contestId": 712,
+      "index": "A"
+    },
+    {
+      "contestId": 711,
+      "index": "A"
+    },
+    {
+      "contestId": 710,
+      "index": "A"
+    },
+    {
+      "contestId": 707,
+      "index": "A"
+    },
+    {
+      "contestId": 705,
+      "index": "A"
+    },
+    {
+      "contestId": 703,
+      "index": "A"
+    },
+    {
+      "contestId": 702,
+      "index": "A"
+    },
+    {
+      "contestId": 701,
+      "index": "A"
+    },
+    {
+      "contestId": 688,
+      "index": "A"
+    },
+    {
+      "contestId": 686,
+      "index": "A"
+    },
+    {
+      "contestId": 681,
+      "index": "A"
+    },
+    {
+      "contestId": 680,
+      "index": "A"
+    },
+    {
+      "contestId": 678,
+      "index": "A"
+    },
+    {
+      "contestId": 677,
+      "index": "A"
+    },
+    {
+      "contestId": 676,
+      "index": "A"
+    },
+    {
+      "contestId": 673,
+      "index": "A"
+    },
+    {
+      "contestId": 672,
+      "index": "A"
+    },
+    {
+      "contestId": 658,
+      "index": "A"
+    },
+    {
+      "contestId": 629,
+      "index": "A"
+    },
+    {
+      "contestId": 620,
+      "index": "A"
+    },
+    {
+      "contestId": 618,
+      "index": "A"
+    },
+    {
+      "contestId": 615,
+      "index": "A"
+    },
+    {
+      "contestId": 609,
+      "index": "A"
+    },
+    {
+      "contestId": 599,
+      "index": "A"
+    },
+    {
+      "contestId": 595,
+      "index": "A"
+    },
+    {
+      "contestId": 581,
+      "index": "A"
+    },
+    {
+      "contestId": 551,
+      "index": "A"
+    },
+    {
+      "contestId": 546,
+      "index": "A"
+    },
+    {
+      "contestId": 540,
+      "index": "A"
+    },
+    {
+      "contestId": 520,
+      "index": "A"
+    },
+    {
+      "contestId": 510,
+      "index": "A"
+    },
+    {
+      "contestId": 509,
+      "index": "A"
+    },
+    {
+      "contestId": 492,
+      "index": "A"
+    },
+    {
+      "contestId": 490,
+      "index": "A"
+    },
+    {
+      "contestId": 486,
+      "index": "A"
+    },
+    {
+      "contestId": 469,
+      "index": "A"
+    },
+    {
+      "contestId": 467,
+      "index": "A"
+    },
+    {
+      "contestId": 454,
+      "index": "A"
+    },
+    {
+      "contestId": 448,
+      "index": "A"
+    },
+    {
+      "contestId": 447,
+      "index": "A"
+    },
+    {
+      "contestId": 443,
+      "index": "A"
+    },
+    {
+      "contestId": 440,
+      "index": "A"
+    },
+    {
+      "contestId": 432,
+      "index": "A"
+    },
+    {
+      "contestId": 431,
+      "index": "A"
+    },
+    {
+      "contestId": 427,
+      "index": "A"
+    },
+    {
+      "contestId": 426,
+      "index": "A"
+    },
+    {
+      "contestId": 421,
+      "index": "A"
+    },
+    {
+      "contestId": 411,
+      "index": "A"
+    },
+    {
+      "contestId": 401,
+      "index": "A"
+    },
+    {
+      "contestId": 386,
+      "index": "A"
+    },
+    {
+      "contestId": 384,
+      "index": "A"
+    },
+    {
+      "contestId": 381,
+      "index": "A"
+    },
+    {
+      "contestId": 363,
+      "index": "A"
+    },
+    {
+      "contestId": 361,
+      "index": "A"
+    },
+    {
+      "contestId": 344,
+      "index": "A"
+    },
+    {
+      "contestId": 339,
+      "index": "A"
+    },
+    {
+      "contestId": 330,
+      "index": "A"
+    },
+    {
+      "contestId": 306,
+      "index": "A"
+    },
+    {
+      "contestId": 302,
+      "index": "A"
+    },
+    {
+      "contestId": 294,
+      "index": "A"
+    },
+    {
+      "contestId": 291,
+      "index": "A"
+    },
+    {
+      "contestId": 282,
+      "index": "A"
+    },
+    {
+      "contestId": 281,
+      "index": "A"
+    },
+    {
+      "contestId": 278,
+      "index": "A"
+    },
+    {
+      "contestId": 266,
+      "index": "B"
+    },
+    {
+      "contestId": 266,
+      "index": "A"
+    },
+    {
+      "contestId": 265,
+      "index": "A"
+    },
+    {
+      "contestId": 263,
+      "index": "A"
+    },
+    {
+      "contestId": 262,
+      "index": "A"
+    },
+    {
+      "contestId": 255,
+      "index": "A"
+    },
+    {
+      "contestId": 248,
+      "index": "A"
+    },
+    {
+      "contestId": 245,
+      "index": "A"
+    },
+    {
+      "contestId": 236,
+      "index": "A"
+    },
+    {
+      "contestId": 233,
+      "index": "A"
+    },
+    {
+      "contestId": 228,
+      "index": "A"
+    },
+    {
+      "contestId": 202,
+      "index": "A"
+    },
+    {
+      "contestId": 200,
+      "index": "B"
+    },
+    {
+      "contestId": 181,
+      "index": "A"
+    },
+    {
+      "contestId": 177,
+      "index": "A2"
+    },
+    {
+      "contestId": 177,
+      "index": "A1"
+    },
+    {
+      "contestId": 172,
+      "index": "A"
+    },
+    {
+      "contestId": 158,
+      "index": "A"
+    },
+    {
+      "contestId": 151,
+      "index": "A"
+    },
+    {
+      "contestId": 148,
+      "index": "A"
+    },
+    {
+      "contestId": 146,
+      "index": "A"
+    },
+    {
+      "contestId": 144,
+      "index": "A"
+    },
+    {
+      "contestId": 141,
+      "index": "A"
+    },
+    {
+      "contestId": 136,
+      "index": "A"
+    },
+    {
+      "contestId": 119,
+      "index": "A"
+    },
+    {
+      "contestId": 116,
+      "index": "A"
+    },
+    {
+      "contestId": 112,
+      "index": "A"
+    },
+    {
+      "contestId": 110,
+      "index": "A"
+    },
+    {
+      "contestId": 104,
+      "index": "A"
+    },
+    {
+      "contestId": 92,
+      "index": "A"
+    },
+    {
+      "contestId": 78,
+      "index": "A"
+    },
+    {
+      "contestId": 61,
+      "index": "A"
+    },
+    {
+      "contestId": 59,
+      "index": "A"
+    },
+    {
+      "contestId": 49,
+      "index": "A"
+    },
+    {
+      "contestId": 46,
+      "index": "A"
+    },
+    {
+      "contestId": 41,
+      "index": "A"
+    },
+    {
+      "contestId": 38,
+      "index": "A"
+    },
+    {
+      "contestId": 34,
+      "index": "A"
+    },
+    {
+      "contestId": 32,
+      "index": "B"
+    },
+    {
+      "contestId": 16,
+      "index": "A"
+    },
+    {
+      "contestId": 14,
+      "index": "A"
+    },
+    {
+      "contestId": 12,
+      "index": "A"
+    }
+  ],
+  "interactive": [],
+  "matrices": [],
+  "math": [
+    {
+      "contestId": 2121,
+      "index": "A"
+    },
+    {
+      "contestId": 2120,
+      "index": "A"
+    },
+    {
+      "contestId": 2114,
+      "index": "A"
+    },
+    {
+      "contestId": 2113,
+      "index": "A"
+    },
+    {
+      "contestId": 2112,
+      "index": "A"
+    },
+    {
+      "contestId": 2111,
+      "index": "A"
+    },
+    {
+      "contestId": 2108,
+      "index": "A"
+    },
+    {
+      "contestId": 2106,
+      "index": "A"
+    },
+    {
+      "contestId": 2104,
+      "index": "A"
+    },
+    {
+      "contestId": 2103,
+      "index": "A"
+    },
+    {
+      "contestId": 2093,
+      "index": "A"
+    },
+    {
+      "contestId": 2092,
+      "index": "A"
+    },
+    {
+      "contestId": 2090,
+      "index": "A"
+    },
+    {
+      "contestId": 2086,
+      "index": "A"
+    },
+    {
+      "contestId": 2084,
+      "index": "A"
+    },
+    {
+      "contestId": 2078,
+      "index": "A"
+    },
+    {
+      "contestId": 2075,
+      "index": "A"
+    },
+    {
+      "contestId": 2074,
+      "index": "B"
+    },
+    {
+      "contestId": 2072,
+      "index": "A"
+    },
+    {
+      "contestId": 2071,
+      "index": "A"
+    },
+    {
+      "contestId": 2070,
+      "index": "A"
+    },
+    {
+      "contestId": 2067,
+      "index": "A"
+    },
+    {
+      "contestId": 2063,
+      "index": "A"
+    },
+    {
+      "contestId": 2062,
+      "index": "A"
+    },
+    {
+      "contestId": 2061,
+      "index": "A"
+    },
+    {
+      "contestId": 2057,
+      "index": "A"
+    },
+    {
+      "contestId": 2056,
+      "index": "A"
+    },
+    {
+      "contestId": 2055,
+      "index": "A"
+    },
+    {
+      "contestId": 2053,
+      "index": "A"
+    },
+    {
+      "contestId": 2051,
+      "index": "B"
+    },
+    {
+      "contestId": 2048,
+      "index": "A"
+    },
+    {
+      "contestId": 2047,
+      "index": "A"
+    },
+    {
+      "contestId": 2044,
+      "index": "C"
+    },
+    {
+      "contestId": 2044,
+      "index": "A"
+    },
+    {
+      "contestId": 2043,
+      "index": "A"
+    },
+    {
+      "contestId": 2040,
+      "index": "A"
+    },
+    {
+      "contestId": 2035,
+      "index": "A"
+    },
+    {
+      "contestId": 2034,
+      "index": "A"
+    },
+    {
+      "contestId": 2033,
+      "index": "A"
+    },
+    {
+      "contestId": 2032,
+      "index": "A"
+    },
+    {
+      "contestId": 2031,
+      "index": "A"
+    },
+    {
+      "contestId": 2030,
+      "index": "B"
+    },
+    {
+      "contestId": 2030,
+      "index": "A"
+    },
+    {
+      "contestId": 2029,
+      "index": "A"
+    },
+    {
+      "contestId": 2027,
+      "index": "A"
+    },
+    {
+      "contestId": 2024,
+      "index": "A"
+    },
+    {
+      "contestId": 2022,
+      "index": "A"
+    },
+    {
+      "contestId": 2021,
+      "index": "A"
+    },
+    {
+      "contestId": 2020,
+      "index": "A"
+    },
+    {
+      "contestId": 2014,
+      "index": "B"
+    },
+    {
+      "contestId": 2013,
+      "index": "A"
+    },
+    {
+      "contestId": 2010,
+      "index": "B"
+    },
+    {
+      "contestId": 2010,
+      "index": "A"
+    },
+    {
+      "contestId": 2009,
+      "index": "A"
+    },
+    {
+      "contestId": 2008,
+      "index": "C"
+    },
+    {
+      "contestId": 2008,
+      "index": "B"
+    },
+    {
+      "contestId": 2008,
+      "index": "A"
+    },
+    {
+      "contestId": 2007,
+      "index": "A"
+    },
+    {
+      "contestId": 2004,
+      "index": "A"
+    },
+    {
+      "contestId": 2002,
+      "index": "A"
+    },
+    {
+      "contestId": 2000,
+      "index": "A"
+    },
+    {
+      "contestId": 1999,
+      "index": "A"
+    },
+    {
+      "contestId": 1998,
+      "index": "A"
+    },
+    {
+      "contestId": 1996,
+      "index": "A"
+    },
+    {
+      "contestId": 1995,
+      "index": "A"
+    },
+    {
+      "contestId": 1992,
+      "index": "B"
+    },
+    {
+      "contestId": 1992,
+      "index": "A"
+    },
+    {
+      "contestId": 1987,
+      "index": "A"
+    },
+    {
+      "contestId": 1986,
+      "index": "A"
+    },
+    {
+      "contestId": 1985,
+      "index": "B"
+    },
+    {
+      "contestId": 1983,
+      "index": "A"
+    },
+    {
+      "contestId": 1982,
+      "index": "A"
+    },
+    {
+      "contestId": 1981,
+      "index": "A"
+    },
+    {
+      "contestId": 1980,
+      "index": "A"
+    },
+    {
+      "contestId": 1978,
+      "index": "B"
+    },
+    {
+      "contestId": 1977,
+      "index": "A"
+    },
+    {
+      "contestId": 1974,
+      "index": "A"
+    },
+    {
+      "contestId": 1969,
+      "index": "A"
+    },
+    {
+      "contestId": 1968,
+      "index": "A"
+    },
+    {
+      "contestId": 1955,
+      "index": "A"
+    },
+    {
+      "contestId": 1950,
+      "index": "C"
+    },
+    {
+      "contestId": 1945,
+      "index": "A"
+    },
+    {
+      "contestId": 1944,
+      "index": "A"
+    },
+    {
+      "contestId": 1942,
+      "index": "A"
+    },
+    {
+      "contestId": 1941,
+      "index": "A"
+    },
+    {
+      "contestId": 1937,
+      "index": "A"
+    },
+    {
+      "contestId": 1934,
+      "index": "A"
+    },
+    {
+      "contestId": 1933,
+      "index": "B"
+    },
+    {
+      "contestId": 1933,
+      "index": "A"
+    },
+    {
+      "contestId": 1929,
+      "index": "B"
+    },
+    {
+      "contestId": 1929,
+      "index": "A"
+    },
+    {
+      "contestId": 1928,
+      "index": "A"
+    },
+    {
+      "contestId": 1921,
+      "index": "A"
+    },
+    {
+      "contestId": 1920,
+      "index": "A"
+    },
+    {
+      "contestId": 1919,
+      "index": "A"
+    },
+    {
+      "contestId": 1918,
+      "index": "A"
+    },
+    {
+      "contestId": 1917,
+      "index": "A"
+    },
+    {
+      "contestId": 1916,
+      "index": "A"
+    },
+    {
+      "contestId": 1914,
+      "index": "B"
+    },
+    {
+      "contestId": 1909,
+      "index": "A"
+    },
+    {
+      "contestId": 1905,
+      "index": "A"
+    },
+    {
+      "contestId": 1901,
+      "index": "A"
+    },
+    {
+      "contestId": 1899,
+      "index": "A"
+    },
+    {
+      "contestId": 1895,
+      "index": "B"
+    },
+    {
+      "contestId": 1895,
+      "index": "A"
+    },
+    {
+      "contestId": 1886,
+      "index": "A"
+    },
+    {
+      "contestId": 1884,
+      "index": "A"
+    },
+    {
+      "contestId": 1883,
+      "index": "A"
+    },
+    {
+      "contestId": 1878,
+      "index": "B"
+    },
+    {
+      "contestId": 1877,
+      "index": "A"
+    },
+    {
+      "contestId": 1873,
+      "index": "C"
+    },
+    {
+      "contestId": 1873,
+      "index": "B"
+    },
+    {
+      "contestId": 1872,
+      "index": "A"
+    },
+    {
+      "contestId": 1870,
+      "index": "A"
+    },
+    {
+      "contestId": 1866,
+      "index": "A"
+    },
+    {
+      "contestId": 1864,
+      "index": "A"
+    },
+    {
+      "contestId": 1861,
+      "index": "A"
+    },
+    {
+      "contestId": 1859,
+      "index": "A"
+    },
+    {
+      "contestId": 1858,
+      "index": "A"
+    },
+    {
+      "contestId": 1857,
+      "index": "A"
+    },
+    {
+      "contestId": 1855,
+      "index": "A"
+    },
+    {
+      "contestId": 1853,
+      "index": "A"
+    },
+    {
+      "contestId": 1851,
+      "index": "A"
+    },
+    {
+      "contestId": 1849,
+      "index": "A"
+    },
+    {
+      "contestId": 1846,
+      "index": "A"
+    },
+    {
+      "contestId": 1845,
+      "index": "A"
+    },
+    {
+      "contestId": 1843,
+      "index": "C"
+    },
+    {
+      "contestId": 1843,
+      "index": "B"
+    },
+    {
+      "contestId": 1842,
+      "index": "A"
+    },
+    {
+      "contestId": 1839,
+      "index": "A"
+    },
+    {
+      "contestId": 1838,
+      "index": "A"
+    },
+    {
+      "contestId": 1837,
+      "index": "A"
+    },
+    {
+      "contestId": 1834,
+      "index": "A"
+    },
+    {
+      "contestId": 1833,
+      "index": "C"
+    },
+    {
+      "contestId": 1828,
+      "index": "A"
+    },
+    {
+      "contestId": 1823,
+      "index": "A"
+    },
+    {
+      "contestId": 1822,
+      "index": "C"
+    },
+    {
+      "contestId": 1822,
+      "index": "B"
+    },
+    {
+      "contestId": 1821,
+      "index": "A"
+    },
+    {
+      "contestId": 1814,
+      "index": "A"
+    },
+    {
+      "contestId": 1811,
+      "index": "A"
+    },
+    {
+      "contestId": 1810,
+      "index": "B"
+    },
+    {
+      "contestId": 1806,
+      "index": "A"
+    },
+    {
+      "contestId": 1804,
+      "index": "A"
+    },
+    {
+      "contestId": 1799,
+      "index": "A"
+    },
+    {
+      "contestId": 1793,
+      "index": "A"
+    },
+    {
+      "contestId": 1790,
+      "index": "B"
+    },
+    {
+      "contestId": 1790,
+      "index": "A"
+    },
+    {
+      "contestId": 1789,
+      "index": "A"
+    },
+    {
+      "contestId": 1788,
+      "index": "A"
+    },
+    {
+      "contestId": 1787,
+      "index": "A"
+    },
+    {
+      "contestId": 1783,
+      "index": "A"
+    },
+    {
+      "contestId": 1781,
+      "index": "A"
+    },
+    {
+      "contestId": 1777,
+      "index": "A"
+    },
+    {
+      "contestId": 1774,
+      "index": "A"
+    },
+    {
+      "contestId": 1769,
+      "index": "A"
+    },
+    {
+      "contestId": 1768,
+      "index": "A"
+    },
+    {
+      "contestId": 1763,
+      "index": "A"
+    },
+    {
+      "contestId": 1762,
+      "index": "A"
+    },
+    {
+      "contestId": 1759,
+      "index": "B"
+    },
+    {
+      "contestId": 1754,
+      "index": "B"
+    },
+    {
+      "contestId": 1750,
+      "index": "A"
+    },
+    {
+      "contestId": 1748,
+      "index": "A"
+    },
+    {
+      "contestId": 1744,
+      "index": "B"
+    },
+    {
+      "contestId": 1743,
+      "index": "A"
+    },
+    {
+      "contestId": 1741,
+      "index": "B"
+    },
+    {
+      "contestId": 1735,
+      "index": "A"
+    },
+    {
+      "contestId": 1731,
+      "index": "A"
+    },
+    {
+      "contestId": 1729,
+      "index": "A"
+    },
+    {
+      "contestId": 1725,
+      "index": "A"
+    },
+    {
+      "contestId": 1720,
+      "index": "B"
+    },
+    {
+      "contestId": 1719,
+      "index": "B"
+    },
+    {
+      "contestId": 1719,
+      "index": "A"
+    },
+    {
+      "contestId": 1717,
+      "index": "A"
+    },
+    {
+      "contestId": 1716,
+      "index": "B"
+    },
+    {
+      "contestId": 1716,
+      "index": "A"
+    },
+    {
+      "contestId": 1715,
+      "index": "A"
+    },
+    {
+      "contestId": 1709,
+      "index": "A"
+    },
+    {
+      "contestId": 1708,
+      "index": "A"
+    },
+    {
+      "contestId": 1700,
+      "index": "A"
+    },
+    {
+      "contestId": 1699,
+      "index": "A"
+    },
+    {
+      "contestId": 1691,
+      "index": "A"
+    },
+    {
+      "contestId": 1684,
+      "index": "B"
+    },
+    {
+      "contestId": 1684,
+      "index": "A"
+    },
+    {
+      "contestId": 1681,
+      "index": "B"
+    },
+    {
+      "contestId": 1680,
+      "index": "A"
+    },
+    {
+      "contestId": 1676,
+      "index": "C"
+    },
+    {
+      "contestId": 1676,
+      "index": "B"
+    },
+    {
+      "contestId": 1675,
+      "index": "A"
+    },
+    {
+      "contestId": 1674,
+      "index": "B"
+    },
+    {
+      "contestId": 1674,
+      "index": "A"
+    },
+    {
+      "contestId": 1672,
+      "index": "A"
+    },
+    {
+      "contestId": 1669,
+      "index": "C"
+    },
+    {
+      "contestId": 1668,
+      "index": "A"
+    },
+    {
+      "contestId": 1665,
+      "index": "A"
+    },
+    {
+      "contestId": 1661,
+      "index": "A"
+    },
+    {
+      "contestId": 1660,
+      "index": "B"
+    },
+    {
+      "contestId": 1660,
+      "index": "A"
+    },
+    {
+      "contestId": 1658,
+      "index": "B"
+    },
+    {
+      "contestId": 1658,
+      "index": "A"
+    },
+    {
+      "contestId": 1657,
+      "index": "A"
+    },
+    {
+      "contestId": 1656,
+      "index": "A"
+    },
+    {
+      "contestId": 1647,
+      "index": "A"
+    },
+    {
+      "contestId": 1646,
+      "index": "A"
+    },
+    {
+      "contestId": 1638,
+      "index": "A"
+    },
+    {
+      "contestId": 1629,
+      "index": "B"
+    },
+    {
+      "contestId": 1625,
+      "index": "A"
+    },
+    {
+      "contestId": 1624,
+      "index": "A"
+    },
+    {
+      "contestId": 1623,
+      "index": "A"
+    },
+    {
+      "contestId": 1622,
+      "index": "A"
+    },
+    {
+      "contestId": 1619,
+      "index": "B"
+    },
+    {
+      "contestId": 1618,
+      "index": "A"
+    },
+    {
+      "contestId": 1615,
+      "index": "A"
+    },
+    {
+      "contestId": 1611,
+      "index": "B"
+    },
+    {
+      "contestId": 1611,
+      "index": "A"
+    },
+    {
+      "contestId": 1608,
+      "index": "A"
+    },
+    {
+      "contestId": 1605,
+      "index": "A"
+    },
+    {
+      "contestId": 1594,
+      "index": "A"
+    },
+    {
+      "contestId": 1593,
+      "index": "A"
+    },
+    {
+      "contestId": 1592,
+      "index": "A"
+    },
+    {
+      "contestId": 1584,
+      "index": "A"
+    },
+    {
+      "contestId": 1583,
+      "index": "A"
+    },
+    {
+      "contestId": 1582,
+      "index": "A"
+    },
+    {
+      "contestId": 1581,
+      "index": "A"
+    },
+    {
+      "contestId": 1579,
+      "index": "A"
+    },
+    {
+      "contestId": 1566,
+      "index": "A"
+    },
+    {
+      "contestId": 1562,
+      "index": "A"
+    },
+    {
+      "contestId": 1560,
+      "index": "C"
+    },
+    {
+      "contestId": 1560,
+      "index": "B"
+    },
+    {
+      "contestId": 1557,
+      "index": "A"
+    },
+    {
+      "contestId": 1556,
+      "index": "A"
+    },
+    {
+      "contestId": 1553,
+      "index": "A"
+    },
+    {
+      "contestId": 1551,
+      "index": "A"
+    },
+    {
+      "contestId": 1550,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "A"
+    },
+    {
+      "contestId": 1547,
+      "index": "A"
+    },
+    {
+      "contestId": 1542,
+      "index": "A"
+    },
+    {
+      "contestId": 1538,
+      "index": "B"
+    },
+    {
+      "contestId": 1537,
+      "index": "A"
+    },
+    {
+      "contestId": 1530,
+      "index": "A"
+    },
+    {
+      "contestId": 1529,
+      "index": "A"
+    },
+    {
+      "contestId": 1525,
+      "index": "A"
+    },
+    {
+      "contestId": 1520,
+      "index": "B"
+    },
+    {
+      "contestId": 1519,
+      "index": "B"
+    },
+    {
+      "contestId": 1519,
+      "index": "A"
+    },
+    {
+      "contestId": 1517,
+      "index": "A"
+    },
+    {
+      "contestId": 1515,
+      "index": "A"
+    },
+    {
+      "contestId": 1514,
+      "index": "A"
+    },
+    {
+      "contestId": 1506,
+      "index": "A"
+    },
+    {
+      "contestId": 1499,
+      "index": "A"
+    },
+    {
+      "contestId": 1498,
+      "index": "A"
+    },
+    {
+      "contestId": 1492,
+      "index": "A"
+    },
+    {
+      "contestId": 1490,
+      "index": "A"
+    },
+    {
+      "contestId": 1482,
+      "index": "A"
+    },
+    {
+      "contestId": 1473,
+      "index": "A"
+    },
+    {
+      "contestId": 1472,
+      "index": "B"
+    },
+    {
+      "contestId": 1472,
+      "index": "A"
+    },
+    {
+      "contestId": 1466,
+      "index": "A"
+    },
+    {
+      "contestId": 1459,
+      "index": "A"
+    },
+    {
+      "contestId": 1455,
+      "index": "A"
+    },
+    {
+      "contestId": 1452,
+      "index": "A"
+    },
+    {
+      "contestId": 1451,
+      "index": "A"
+    },
+    {
+      "contestId": 1447,
+      "index": "A"
+    },
+    {
+      "contestId": 1443,
+      "index": "A"
+    },
+    {
+      "contestId": 1440,
+      "index": "A"
+    },
+    {
+      "contestId": 1437,
+      "index": "A"
+    },
+    {
+      "contestId": 1436,
+      "index": "A"
+    },
+    {
+      "contestId": 1433,
+      "index": "A"
+    },
+    {
+      "contestId": 1428,
+      "index": "A"
+    },
+    {
+      "contestId": 1426,
+      "index": "A"
+    },
+    {
+      "contestId": 1422,
+      "index": "A"
+    },
+    {
+      "contestId": 1421,
+      "index": "A"
+    },
+    {
+      "contestId": 1417,
+      "index": "A"
+    },
+    {
+      "contestId": 1415,
+      "index": "A"
+    },
+    {
+      "contestId": 1413,
+      "index": "A"
+    },
+    {
+      "contestId": 1409,
+      "index": "A"
+    },
+    {
+      "contestId": 1398,
+      "index": "A"
+    },
+    {
+      "contestId": 1393,
+      "index": "A"
+    },
+    {
+      "contestId": 1392,
+      "index": "B"
+    },
+    {
+      "contestId": 1392,
+      "index": "A"
+    },
+    {
+      "contestId": 1391,
+      "index": "A"
+    },
+    {
+      "contestId": 1389,
+      "index": "A"
+    },
+    {
+      "contestId": 1388,
+      "index": "A"
+    },
+    {
+      "contestId": 1385,
+      "index": "A"
+    },
+    {
+      "contestId": 1374,
+      "index": "A"
+    },
+    {
+      "contestId": 1371,
+      "index": "A"
+    },
+    {
+      "contestId": 1370,
+      "index": "A"
+    },
+    {
+      "contestId": 1369,
+      "index": "A"
+    },
+    {
+      "contestId": 1368,
+      "index": "A"
+    },
+    {
+      "contestId": 1367,
+      "index": "B"
+    },
+    {
+      "contestId": 1360,
+      "index": "A"
+    },
+    {
+      "contestId": 1358,
+      "index": "A"
+    },
+    {
+      "contestId": 1353,
+      "index": "A"
+    },
+    {
+      "contestId": 1352,
+      "index": "A"
+    },
+    {
+      "contestId": 1348,
+      "index": "A"
+    },
+    {
+      "contestId": 1345,
+      "index": "A"
+    },
+    {
+      "contestId": 1343,
+      "index": "B"
+    },
+    {
+      "contestId": 1337,
+      "index": "A"
+    },
+    {
+      "contestId": 1335,
+      "index": "A"
+    },
+    {
+      "contestId": 1328,
+      "index": "A"
+    },
+    {
+      "contestId": 1312,
+      "index": "A"
+    },
+    {
+      "contestId": 1311,
+      "index": "A"
+    },
+    {
+      "contestId": 1304,
+      "index": "A"
+    },
+    {
+      "contestId": 1300,
+      "index": "A"
+    },
+    {
+      "contestId": 1296,
+      "index": "A"
+    },
+    {
+      "contestId": 1294,
+      "index": "A"
+    },
+    {
+      "contestId": 1285,
+      "index": "A"
+    },
+    {
+      "contestId": 1283,
+      "index": "A"
+    },
+    {
+      "contestId": 1271,
+      "index": "A"
+    },
+    {
+      "contestId": 1270,
+      "index": "A"
+    },
+    {
+      "contestId": 1269,
+      "index": "A"
+    },
+    {
+      "contestId": 1257,
+      "index": "A"
+    },
+    {
+      "contestId": 1255,
+      "index": "A"
+    },
+    {
+      "contestId": 1249,
+      "index": "A"
+    },
+    {
+      "contestId": 1244,
+      "index": "A"
+    },
+    {
+      "contestId": 1236,
+      "index": "A"
+    },
+    {
+      "contestId": 1234,
+      "index": "A"
+    },
+    {
+      "contestId": 1223,
+      "index": "A"
+    },
+    {
+      "contestId": 1209,
+      "index": "A"
+    },
+    {
+      "contestId": 1207,
+      "index": "A"
+    },
+    {
+      "contestId": 1206,
+      "index": "A"
+    },
+    {
+      "contestId": 1196,
+      "index": "A"
+    },
+    {
+      "contestId": 1194,
+      "index": "A"
+    },
+    {
+      "contestId": 1185,
+      "index": "A"
+    },
+    {
+      "contestId": 1180,
+      "index": "A"
+    },
+    {
+      "contestId": 1159,
+      "index": "A"
+    },
+    {
+      "contestId": 1154,
+      "index": "A"
+    },
+    {
+      "contestId": 1152,
+      "index": "A"
+    },
+    {
+      "contestId": 1131,
+      "index": "A"
+    },
+    {
+      "contestId": 1118,
+      "index": "A"
+    },
+    {
+      "contestId": 1104,
+      "index": "A"
+    },
+    {
+      "contestId": 1102,
+      "index": "A"
+    },
+    {
+      "contestId": 1096,
+      "index": "A"
+    },
+    {
+      "contestId": 1093,
+      "index": "A"
+    },
+    {
+      "contestId": 1091,
+      "index": "A"
+    },
+    {
+      "contestId": 1081,
+      "index": "A"
+    },
+    {
+      "contestId": 1080,
+      "index": "A"
+    },
+    {
+      "contestId": 1077,
+      "index": "A"
+    },
+    {
+      "contestId": 1075,
+      "index": "A"
+    },
+    {
+      "contestId": 1065,
+      "index": "A"
+    },
+    {
+      "contestId": 1064,
+      "index": "A"
+    },
+    {
+      "contestId": 1061,
+      "index": "A"
+    },
+    {
+      "contestId": 1047,
+      "index": "A"
+    },
+    {
+      "contestId": 1043,
+      "index": "A"
+    },
+    {
+      "contestId": 1031,
+      "index": "A"
+    },
+    {
+      "contestId": 1013,
+      "index": "A"
+    },
+    {
+      "contestId": 965,
+      "index": "A"
+    },
+    {
+      "contestId": 964,
+      "index": "A"
+    },
+    {
+      "contestId": 959,
+      "index": "A"
+    },
+    {
+      "contestId": 952,
+      "index": "A"
+    },
+    {
+      "contestId": 950,
+      "index": "A"
+    },
+    {
+      "contestId": 931,
+      "index": "A"
+    },
+    {
+      "contestId": 899,
+      "index": "A"
+    },
+    {
+      "contestId": 898,
+      "index": "A"
+    },
+    {
+      "contestId": 854,
+      "index": "A"
+    },
+    {
+      "contestId": 851,
+      "index": "A"
+    },
+    {
+      "contestId": 835,
+      "index": "A"
+    },
+    {
+      "contestId": 832,
+      "index": "A"
+    },
+    {
+      "contestId": 822,
+      "index": "A"
+    },
+    {
+      "contestId": 818,
+      "index": "A"
+    },
+    {
+      "contestId": 764,
+      "index": "A"
+    },
+    {
+      "contestId": 760,
+      "index": "A"
+    },
+    {
+      "contestId": 758,
+      "index": "A"
+    },
+    {
+      "contestId": 755,
+      "index": "A"
+    },
+    {
+      "contestId": 750,
+      "index": "A"
+    },
+    {
+      "contestId": 749,
+      "index": "A"
+    },
+    {
+      "contestId": 748,
+      "index": "A"
+    },
+    {
+      "contestId": 747,
+      "index": "A"
+    },
+    {
+      "contestId": 746,
+      "index": "A"
+    },
+    {
+      "contestId": 734,
+      "index": "B"
+    },
+    {
+      "contestId": 732,
+      "index": "A"
+    },
+    {
+      "contestId": 723,
+      "index": "A"
+    },
+    {
+      "contestId": 712,
+      "index": "A"
+    },
+    {
+      "contestId": 678,
+      "index": "A"
+    },
+    {
+      "contestId": 669,
+      "index": "A"
+    },
+    {
+      "contestId": 664,
+      "index": "A"
+    },
+    {
+      "contestId": 624,
+      "index": "A"
+    },
+    {
+      "contestId": 620,
+      "index": "A"
+    },
+    {
+      "contestId": 617,
+      "index": "A"
+    },
+    {
+      "contestId": 581,
+      "index": "A"
+    },
+    {
+      "contestId": 546,
+      "index": "A"
+    },
+    {
+      "contestId": 513,
+      "index": "A"
+    },
+    {
+      "contestId": 486,
+      "index": "A"
+    },
+    {
+      "contestId": 472,
+      "index": "A"
+    },
+    {
+      "contestId": 401,
+      "index": "A"
+    },
+    {
+      "contestId": 294,
+      "index": "A"
+    },
+    {
+      "contestId": 233,
+      "index": "A"
+    },
+    {
+      "contestId": 200,
+      "index": "B"
+    },
+    {
+      "contestId": 151,
+      "index": "A"
+    },
+    {
+      "contestId": 148,
+      "index": "A"
+    },
+    {
+      "contestId": 92,
+      "index": "A"
+    },
+    {
+      "contestId": 50,
+      "index": "A"
+    },
+    {
+      "contestId": 47,
+      "index": "A"
+    },
+    {
+      "contestId": 9,
+      "index": "A"
+    },
+    {
+      "contestId": 4,
+      "index": "A"
+    }
+  ],
+  "meet-in-the-middle": [],
+  "number theory": [
+    {
+      "contestId": 2107,
+      "index": "A"
+    },
+    {
+      "contestId": 2092,
+      "index": "A"
+    },
+    {
+      "contestId": 2071,
+      "index": "A"
+    },
+    {
+      "contestId": 2063,
+      "index": "A"
+    },
+    {
+      "contestId": 2048,
+      "index": "A"
+    },
+    {
+      "contestId": 2039,
+      "index": "A"
+    },
+    {
+      "contestId": 2034,
+      "index": "A"
+    },
+    {
+      "contestId": 2032,
+      "index": "A"
+    },
+    {
+      "contestId": 2020,
+      "index": "A"
+    },
+    {
+      "contestId": 2007,
+      "index": "A"
+    },
+    {
+      "contestId": 1985,
+      "index": "B"
+    },
+    {
+      "contestId": 1968,
+      "index": "A"
+    },
+    {
+      "contestId": 1933,
+      "index": "B"
+    },
+    {
+      "contestId": 1916,
+      "index": "A"
+    },
+    {
+      "contestId": 1899,
+      "index": "A"
+    },
+    {
+      "contestId": 1859,
+      "index": "A"
+    },
+    {
+      "contestId": 1845,
+      "index": "A"
+    },
+    {
+      "contestId": 1816,
+      "index": "A"
+    },
+    {
+      "contestId": 1810,
+      "index": "B"
+    },
+    {
+      "contestId": 1789,
+      "index": "A"
+    },
+    {
+      "contestId": 1768,
+      "index": "A"
+    },
+    {
+      "contestId": 1762,
+      "index": "A"
+    },
+    {
+      "contestId": 1740,
+      "index": "A"
+    },
+    {
+      "contestId": 1717,
+      "index": "A"
+    },
+    {
+      "contestId": 1712,
+      "index": "B"
+    },
+    {
+      "contestId": 1658,
+      "index": "B"
+    },
+    {
+      "contestId": 1629,
+      "index": "B"
+    },
+    {
+      "contestId": 1605,
+      "index": "A"
+    },
+    {
+      "contestId": 1583,
+      "index": "A"
+    },
+    {
+      "contestId": 1581,
+      "index": "A"
+    },
+    {
+      "contestId": 1553,
+      "index": "A"
+    },
+    {
+      "contestId": 1549,
+      "index": "A"
+    },
+    {
+      "contestId": 1525,
+      "index": "A"
+    },
+    {
+      "contestId": 1520,
+      "index": "B"
+    },
+    {
+      "contestId": 1514,
+      "index": "A"
+    },
+    {
+      "contestId": 1455,
+      "index": "A"
+    },
+    {
+      "contestId": 1389,
+      "index": "A"
+    },
+    {
+      "contestId": 1388,
+      "index": "A"
+    },
+    {
+      "contestId": 1370,
+      "index": "A"
+    },
+    {
+      "contestId": 1325,
+      "index": "A"
+    },
+    {
+      "contestId": 1312,
+      "index": "A"
+    },
+    {
+      "contestId": 822,
+      "index": "A"
+    },
+    {
+      "contestId": 755,
+      "index": "A"
+    },
+    {
+      "contestId": 749,
+      "index": "A"
+    },
+    {
+      "contestId": 664,
+      "index": "A"
+    },
+    {
+      "contestId": 630,
+      "index": "A"
+    },
+    {
+      "contestId": 472,
+      "index": "A"
+    }
+  ],
+  "probabilities": [
+    {
+      "contestId": 1459,
+      "index": "A"
+    },
+    {
+      "contestId": 1454,
+      "index": "A"
+    },
+    {
+      "contestId": 9,
+      "index": "A"
+    }
+  ],
+  "schedules": [],
+  "shortest paths": [
+    {
+      "contestId": 266,
+      "index": "B"
+    }
+  ],
+  "sortings": [
+    {
+      "contestId": 2110,
+      "index": "A"
+    },
+    {
+      "contestId": 2092,
+      "index": "A"
+    },
+    {
+      "contestId": 2091,
+      "index": "B"
+    },
+    {
+      "contestId": 2059,
+      "index": "A"
+    },
+    {
+      "contestId": 2042,
+      "index": "A"
+    },
+    {
+      "contestId": 2036,
+      "index": "B"
+    },
+    {
+      "contestId": 2030,
+      "index": "A"
+    },
+    {
+      "contestId": 2021,
+      "index": "A"
+    },
+    {
+      "contestId": 2003,
+      "index": "B"
+    },
+    {
+      "contestId": 1992,
+      "index": "B"
+    },
+    {
+      "contestId": 1992,
+      "index": "A"
+    },
+    {
+      "contestId": 1986,
+      "index": "A"
+    },
+    {
+      "contestId": 1982,
+      "index": "A"
+    },
+    {
+      "contestId": 1980,
+      "index": "B"
+    },
+    {
+      "contestId": 1980,
+      "index": "B"
+    },
+    {
+      "contestId": 1978,
+      "index": "A"
+    },
+    {
+      "contestId": 1976,
+      "index": "A"
+    },
+    {
+      "contestId": 1975,
+      "index": "A"
+    },
+    {
+      "contestId": 1974,
+      "index": "B"
+    },
+    {
+      "contestId": 1971,
+      "index": "A"
+    },
+    {
+      "contestId": 1946,
+      "index": "A"
+    },
+    {
+      "contestId": 1933,
+      "index": "A"
+    },
+    {
+      "contestId": 1930,
+      "index": "A"
+    },
+    {
+      "contestId": 1929,
+      "index": "A"
+    },
+    {
+      "contestId": 1903,
+      "index": "A"
+    },
+    {
+      "contestId": 1896,
+      "index": "A"
+    },
+    {
+      "contestId": 1895,
+      "index": "B"
+    },
+    {
+      "contestId": 1891,
+      "index": "A"
+    },
+    {
+      "contestId": 1867,
+      "index": "A"
+    },
+    {
+      "contestId": 1851,
+      "index": "B"
+    },
+    {
+      "contestId": 1850,
+      "index": "B"
+    },
+    {
+      "contestId": 1850,
+      "index": "A"
+    },
+    {
+      "contestId": 1847,
+      "index": "A"
+    },
+    {
+      "contestId": 1843,
+      "index": "A"
+    },
+    {
+      "contestId": 1836,
+      "index": "A"
+    },
+    {
+      "contestId": 1822,
+      "index": "B"
+    },
+    {
+      "contestId": 1798,
+      "index": "A"
+    },
+    {
+      "contestId": 1792,
+      "index": "A"
+    },
+    {
+      "contestId": 1783,
+      "index": "A"
+    },
+    {
+      "contestId": 1767,
+      "index": "B"
+    },
+    {
+      "contestId": 1760,
+      "index": "C"
+    },
+    {
+      "contestId": 1760,
+      "index": "A"
+    },
+    {
+      "contestId": 1742,
+      "index": "B"
+    },
+    {
+      "contestId": 1740,
+      "index": "B"
+    },
+    {
+      "contestId": 1738,
+      "index": "A"
+    },
+    {
+      "contestId": 1736,
+      "index": "A"
+    },
+    {
+      "contestId": 1734,
+      "index": "A"
+    },
+    {
+      "contestId": 1733,
+      "index": "A"
+    },
+    {
+      "contestId": 1730,
+      "index": "A"
+    },
+    {
+      "contestId": 1728,
+      "index": "A"
+    },
+    {
+      "contestId": 1720,
+      "index": "B"
+    },
+    {
+      "contestId": 1705,
+      "index": "A"
+    },
+    {
+      "contestId": 1692,
+      "index": "B"
+    },
+    {
+      "contestId": 1689,
+      "index": "A"
+    },
+    {
+      "contestId": 1688,
+      "index": "B"
+    },
+    {
+      "contestId": 1676,
+      "index": "B"
+    },
+    {
+      "contestId": 1670,
+      "index": "A"
+    },
+    {
+      "contestId": 1669,
+      "index": "B"
+    },
+    {
+      "contestId": 1656,
+      "index": "A"
+    },
+    {
+      "contestId": 1654,
+      "index": "A"
+    },
+    {
+      "contestId": 1646,
+      "index": "B"
+    },
+    {
+      "contestId": 1637,
+      "index": "A"
+    },
+    {
+      "contestId": 1629,
+      "index": "A"
+    },
+    {
+      "contestId": 1626,
+      "index": "A"
+    },
+    {
+      "contestId": 1618,
+      "index": "A"
+    },
+    {
+      "contestId": 1617,
+      "index": "A"
+    },
+    {
+      "contestId": 1592,
+      "index": "A"
+    },
+    {
+      "contestId": 1561,
+      "index": "A"
+    },
+    {
+      "contestId": 1557,
+      "index": "A"
+    },
+    {
+      "contestId": 1552,
+      "index": "A"
+    },
+    {
+      "contestId": 1526,
+      "index": "A"
+    },
+    {
+      "contestId": 1497,
+      "index": "A"
+    },
+    {
+      "contestId": 1487,
+      "index": "A"
+    },
+    {
+      "contestId": 1473,
+      "index": "A"
+    },
+    {
+      "contestId": 1450,
+      "index": "A"
+    },
+    {
+      "contestId": 1445,
+      "index": "A"
+    },
+    {
+      "contestId": 1430,
+      "index": "B"
+    },
+    {
+      "contestId": 1399,
+      "index": "A"
+    },
+    {
+      "contestId": 1398,
+      "index": "B"
+    },
+    {
+      "contestId": 1360,
+      "index": "B"
+    },
+    {
+      "contestId": 1353,
+      "index": "B"
+    },
+    {
+      "contestId": 1305,
+      "index": "A"
+    },
+    {
+      "contestId": 1220,
+      "index": "A"
+    },
+    {
+      "contestId": 1206,
+      "index": "A"
+    },
+    {
+      "contestId": 1092,
+      "index": "B"
+    },
+    {
+      "contestId": 1041,
+      "index": "A"
+    },
+    {
+      "contestId": 992,
+      "index": "A"
+    },
+    {
+      "contestId": 984,
+      "index": "A"
+    },
+    {
+      "contestId": 937,
+      "index": "A"
+    },
+    {
+      "contestId": 769,
+      "index": "A"
+    },
+    {
+      "contestId": 723,
+      "index": "A"
+    },
+    {
+      "contestId": 648,
+      "index": "B"
+    },
+    {
+      "contestId": 609,
+      "index": "A"
+    },
+    {
+      "contestId": 551,
+      "index": "A"
+    },
+    {
+      "contestId": 490,
+      "index": "A"
+    },
+    {
+      "contestId": 432,
+      "index": "A"
+    },
+    {
+      "contestId": 339,
+      "index": "A"
+    },
+    {
+      "contestId": 291,
+      "index": "A"
+    },
+    {
+      "contestId": 169,
+      "index": "A"
+    },
+    {
+      "contestId": 141,
+      "index": "A"
+    }
+  ],
+  "special": [],
+  "string suffix structures": [
+    {
+      "contestId": 1706,
+      "index": "A"
+    }
+  ],
+  "strings": [
+    {
+      "contestId": 2121,
+      "index": "B"
+    },
+    {
+      "contestId": 2094,
+      "index": "A"
+    },
+    {
+      "contestId": 2091,
+      "index": "A"
+    },
+    {
+      "contestId": 2065,
+      "index": "B"
+    },
+    {
+      "contestId": 2065,
+      "index": "A"
+    },
+    {
+      "contestId": 2064,
+      "index": "A"
+    },
+    {
+      "contestId": 2062,
+      "index": "A"
+    },
+    {
+      "contestId": 2044,
+      "index": "B"
+    },
+    {
+      "contestId": 2025,
+      "index": "A"
+    },
+    {
+      "contestId": 2008,
+      "index": "B"
+    },
+    {
+      "contestId": 2003,
+      "index": "A"
+    },
+    {
+      "contestId": 2000,
+      "index": "A"
+    },
+    {
+      "contestId": 1997,
+      "index": "A"
+    },
+    {
+      "contestId": 1985,
+      "index": "A"
+    },
+    {
+      "contestId": 1976,
+      "index": "A"
+    },
+    {
+      "contestId": 1974,
+      "index": "B"
+    },
+    {
+      "contestId": 1971,
+      "index": "B"
+    },
+    {
+      "contestId": 1935,
+      "index": "A"
+    },
+    {
+      "contestId": 1931,
+      "index": "A"
+    },
+    {
+      "contestId": 1927,
+      "index": "A"
+    },
+    {
+      "contestId": 1925,
+      "index": "A"
+    },
+    {
+      "contestId": 1922,
+      "index": "A"
+    },
+    {
+      "contestId": 1914,
+      "index": "A"
+    },
+    {
+      "contestId": 1912,
+      "index": "L"
+    },
+    {
+      "contestId": 1900,
+      "index": "A"
+    },
+    {
+      "contestId": 1898,
+      "index": "A"
+    },
+    {
+      "contestId": 1894,
+      "index": "A"
+    },
+    {
+      "contestId": 1881,
+      "index": "A"
+    },
+    {
+      "contestId": 1862,
+      "index": "A"
+    },
+    {
+      "contestId": 1850,
+      "index": "C"
+    },
+    {
+      "contestId": 1846,
+      "index": "B"
+    },
+    {
+      "contestId": 1840,
+      "index": "A"
+    },
+    {
+      "contestId": 1833,
+      "index": "A"
+    },
+    {
+      "contestId": 1832,
+      "index": "A"
+    },
+    {
+      "contestId": 1829,
+      "index": "A"
+    },
+    {
+      "contestId": 1825,
+      "index": "A"
+    },
+    {
+      "contestId": 1820,
+      "index": "A"
+    },
+    {
+      "contestId": 1811,
+      "index": "A"
+    },
+    {
+      "contestId": 1807,
+      "index": "C"
+    },
+    {
+      "contestId": 1805,
+      "index": "B"
+    },
+    {
+      "contestId": 1800,
+      "index": "A"
+    },
+    {
+      "contestId": 1796,
+      "index": "A"
+    },
+    {
+      "contestId": 1795,
+      "index": "A"
+    },
+    {
+      "contestId": 1794,
+      "index": "A"
+    },
+    {
+      "contestId": 1791,
+      "index": "A"
+    },
+    {
+      "contestId": 1790,
+      "index": "A"
+    },
+    {
+      "contestId": 1789,
+      "index": "B"
+    },
+    {
+      "contestId": 1779,
+      "index": "A"
+    },
+    {
+      "contestId": 1760,
+      "index": "B"
+    },
+    {
+      "contestId": 1759,
+      "index": "A"
+    },
+    {
+      "contestId": 1758,
+      "index": "A"
+    },
+    {
+      "contestId": 1741,
+      "index": "A"
+    },
+    {
+      "contestId": 1729,
+      "index": "B"
+    },
+    {
+      "contestId": 1706,
+      "index": "A"
+    },
+    {
+      "contestId": 1703,
+      "index": "C"
+    },
+    {
+      "contestId": 1703,
+      "index": "A"
+    },
+    {
+      "contestId": 1684,
+      "index": "A"
+    },
+    {
+      "contestId": 1682,
+      "index": "A"
+    },
+    {
+      "contestId": 1676,
+      "index": "C"
+    },
+    {
+      "contestId": 1673,
+      "index": "A"
+    },
+    {
+      "contestId": 1654,
+      "index": "B"
+    },
+    {
+      "contestId": 1650,
+      "index": "A"
+    },
+    {
+      "contestId": 1634,
+      "index": "A"
+    },
+    {
+      "contestId": 1619,
+      "index": "A"
+    },
+    {
+      "contestId": 1617,
+      "index": "A"
+    },
+    {
+      "contestId": 1607,
+      "index": "A"
+    },
+    {
+      "contestId": 1579,
+      "index": "A"
+    },
+    {
+      "contestId": 1567,
+      "index": "A"
+    },
+    {
+      "contestId": 1552,
+      "index": "A"
+    },
+    {
+      "contestId": 1551,
+      "index": "B1"
+    },
+    {
+      "contestId": 1547,
+      "index": "B"
+    },
+    {
+      "contestId": 1539,
+      "index": "B"
+    },
+    {
+      "contestId": 1504,
+      "index": "A"
+    },
+    {
+      "contestId": 1481,
+      "index": "A"
+    },
+    {
+      "contestId": 1480,
+      "index": "A"
+    },
+    {
+      "contestId": 1462,
+      "index": "B"
+    },
+    {
+      "contestId": 1400,
+      "index": "A"
+    },
+    {
+      "contestId": 1397,
+      "index": "A"
+    },
+    {
+      "contestId": 1367,
+      "index": "A"
+    },
+    {
+      "contestId": 1303,
+      "index": "A"
+    },
+    {
+      "contestId": 1301,
+      "index": "A"
+    },
+    {
+      "contestId": 1284,
+      "index": "A"
+    },
+    {
+      "contestId": 1220,
+      "index": "A"
+    },
+    {
+      "contestId": 1216,
+      "index": "A"
+    },
+    {
+      "contestId": 1189,
+      "index": "A"
+    },
+    {
+      "contestId": 1167,
+      "index": "A"
+    },
+    {
+      "contestId": 1146,
+      "index": "A"
+    },
+    {
+      "contestId": 1144,
+      "index": "A"
+    },
+    {
+      "contestId": 1139,
+      "index": "A"
+    },
+    {
+      "contestId": 1085,
+      "index": "A"
+    },
+    {
+      "contestId": 1038,
+      "index": "A"
+    },
+    {
+      "contestId": 978,
+      "index": "B"
+    },
+    {
+      "contestId": 855,
+      "index": "A"
+    },
+    {
+      "contestId": 831,
+      "index": "B"
+    },
+    {
+      "contestId": 802,
+      "index": "G"
+    },
+    {
+      "contestId": 785,
+      "index": "A"
+    },
+    {
+      "contestId": 735,
+      "index": "A"
+    },
+    {
+      "contestId": 734,
+      "index": "A"
+    },
+    {
+      "contestId": 731,
+      "index": "A"
+    },
+    {
+      "contestId": 520,
+      "index": "A"
+    },
+    {
+      "contestId": 339,
+      "index": "A"
+    },
+    {
+      "contestId": 281,
+      "index": "A"
+    },
+    {
+      "contestId": 236,
+      "index": "A"
+    },
+    {
+      "contestId": 202,
+      "index": "A"
+    },
+    {
+      "contestId": 141,
+      "index": "A"
+    },
+    {
+      "contestId": 112,
+      "index": "A"
+    },
+    {
+      "contestId": 99,
+      "index": "A"
+    },
+    {
+      "contestId": 78,
+      "index": "A"
+    },
+    {
+      "contestId": 71,
+      "index": "A"
+    },
+    {
+      "contestId": 59,
+      "index": "A"
+    },
+    {
+      "contestId": 41,
+      "index": "A"
+    }
+  ],
+  "ternary search": [
+    {
+      "contestId": 1996,
+      "index": "A"
+    },
+    {
+      "contestId": 1978,
+      "index": "B"
+    }
+  ],
+  "trees": [
+    {
+      "contestId": 1843,
+      "index": "C"
+    }
+  ],
+  "two pointers": [
+    {
+      "contestId": 2025,
+      "index": "A"
+    },
+    {
+      "contestId": 2000,
+      "index": "B"
+    },
+    {
+      "contestId": 1972,
+      "index": "A"
+    },
+    {
+      "contestId": 1968,
+      "index": "B"
+    },
+    {
+      "contestId": 1873,
+      "index": "D"
+    },
+    {
+      "contestId": 1851,
+      "index": "B"
+    },
+    {
+      "contestId": 1843,
+      "index": "B"
+    },
+    {
+      "contestId": 1843,
+      "index": "A"
+    },
+    {
+      "contestId": 1840,
+      "index": "A"
+    },
+    {
+      "contestId": 1791,
+      "index": "C"
+    },
+    {
+      "contestId": 1789,
+      "index": "B"
+    },
+    {
+      "contestId": 1746,
+      "index": "B"
+    },
+    {
+      "contestId": 1689,
+      "index": "A"
+    },
+    {
+      "contestId": 1646,
+      "index": "B"
+    },
+    {
+      "contestId": 1462,
+      "index": "A"
+    },
+    {
+      "contestId": 381,
+      "index": "A"
+    }
+  ]
+}

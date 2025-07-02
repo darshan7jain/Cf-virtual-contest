@@ -25,7 +25,7 @@ function Home() {
   };
 
   return (
-    <div className="home-dark-bg">
+    <div>
       <nav className="navbar">
         <div className="navbar-left">
           <span className="navbar-title">CF Virtual Contest</span>

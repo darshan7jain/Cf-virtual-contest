@@ -13,22 +13,18 @@ function ContestEnter({ onVerify }) {
     }
     setError('');
     setLoading(true);
-    try {
-      const url = `https://codeforces.com/api/user.status?handle=${handle}&from=1&count=1`;
-      const res = await fetch(url);
-      const data = await res.json();
-      if (data.status === 'OK' && data.result.length > 0) {
-        const sub = data.result[0];
-        if(sub.problem && sub.problem.contestId === 4 && sub.problem.index === 'A'){
-          setLoading(false);
-          onVerify(handle);
-          return;
-        }
+    const url = `https://codeforces.com/api/user.status?handle=${handle}&from=1&count=4`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if (data.status === 'OK' && data.result.length > 0) {
+      const sub = data.result[0];
+      if(sub.problem && sub.problem.contestId === 2123 && sub.problem.index === 'E'){
+        setLoading(false);
+        onVerify(handle);
+        return;
       }
-      setError('Submission for problem 4A not found. Please make a submission and try again.');
-    } catch (e) {
-      setError('Error verifying handle. Please try again.');
     }
+    setError('Submission for the above problem not found. Please make a submission and try again.');
     setLoading(false);
   };
 
@@ -49,6 +45,7 @@ function ContestEnter({ onVerify }) {
           disabled={loading}
         />
         <button onClick={handleVerifyClick} disabled={loading}>{loading ? 'Checking...' : 'Check'}</button>
+        <p>{error}</p>
       </div>
     </div>
   );
