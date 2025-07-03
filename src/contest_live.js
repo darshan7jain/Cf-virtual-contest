@@ -28,22 +28,22 @@ function ContestLive({ handle, problems, onEnd }) {
 
   const checkSubmission = async (idx) => {
     setChecking(arr => arr.map((v, i) => i === idx ? true : v));
-    const url = `https://codeforces.com/api/user.status?handle=${handle}&from=1&count=20`;
+    const url = `https://codeforces.com/api/user.status?handle=${handle}&from=1&count=1`;
     try {
       const res = await fetch(url);
       const data = await res.json();
       let verdict = 'no submission';
-      if (data.status === 'OK') {
-        for (const sub of data.result) {
-          if (
-            sub.problem &&
-            sub.problem.contestId === problems[idx].contestId &&
-            sub.problem.index === problems[idx].index
-          ) {
-            if (sub.verdict === 'OK') verdict = 'accepted';
-            else verdict = 'wrong';
-            break;
-          }
+      if (data.status === 'OK' && data.result.length > 0) {
+        const sub = data.result[0];
+        if (
+          sub.problem &&
+          sub.problem.contestId === problems[idx].contestId &&
+          sub.problem.index === problems[idx].index
+        ) {
+          if (sub.verdict === 'OK') verdict = 'accepted';
+          else verdict = 'wrong';
+        } else {
+          verdict = 'wrong';
         }
       }
       setStatuses(arr => arr.map((v, i) => i === idx ? verdict : v));
@@ -78,7 +78,10 @@ function ContestLive({ handle, problems, onEnd }) {
                 </a>
               </td>
               <td>
-                <span className={`contest-live-status${statuses[idx]==='accepted' ? ' accepted' : statuses[idx]==='wrong' ? ' wrong' : ''}`}>{statuses[idx]}</span>
+                <span className={`contest-live-status${statuses[idx]==='accepted' ? ' accepted' : statuses[idx]==='wrong' ? ' wrong' : ''}`}
+                  style={statuses[idx]==='accepted' ? { background: 'rgba(144,238,144,0.3)', borderRadius: '6px', padding: '4px 10px', display: 'inline-block' } : {}}>
+                  {statuses[idx]}
+                </span>
               </td>
               <td>
                 <button className="contest-live-check-btn" onClick={() => checkSubmission(idx)} disabled={checking[idx]}>
