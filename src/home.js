@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import './styles/home.css';
 import ContestEnter from './contest_enter';
 import ContestRun from './contest_run';
 import Analysis from './analysis';
@@ -6,8 +7,16 @@ import About from './about';
 
 function Home() {
   const [activeTab, setActiveTab] = useState('contest');
-  const [handle, setHandle] = useState('');
-  const [isVerified, setIsVerified] = useState(false);
+  const [handle, setHandle] = useState(() => localStorage.getItem('cfvc-handle') || '');
+  const [isVerified, setIsVerified] = useState(() => !!localStorage.getItem('cfvc-handle'));
+
+  useEffect(() => {
+    if (isVerified && handle) {
+      localStorage.setItem('cfvc-handle', handle);
+    } else {
+      localStorage.removeItem('cfvc-handle');
+    }
+  }, [handle, isVerified]);
 
   const tabChanger = (tab) => {
     setActiveTab(tab);

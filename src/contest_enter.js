@@ -18,7 +18,7 @@ function ContestEnter({ onVerify }) {
     const data = await res.json();
     if (data.status === 'OK' && data.result.length > 0) {
       const sub = data.result[0];
-      if(sub.problem && sub.problem.contestId === 2123 && sub.problem.index === 'E'){
+      if(sub.problem && sub.problem.contestId === 1851 && sub.problem.index === 'B'){
         setLoading(false);
         onVerify(handle);
         return;

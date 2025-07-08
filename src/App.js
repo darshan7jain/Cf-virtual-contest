@@ -10,7 +10,3 @@ function App() {
 }
 
 export default App;
-
-
-//https://codeforces.com/api/{methodName}
-// https://codeforces.com/api/problemset.recentStatus?count=10

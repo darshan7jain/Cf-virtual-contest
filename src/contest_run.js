@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { ratingOptions, topicOptions } from './problemset/options';
 import './styles/contest_run.css';
 
 function getProblemUrl(contestId, index) {
-  return `https://codeforces.com/contest/${contestId}/problem/${index}`;
+  return `https://codeforces.com/problemset/problem/${contestId}/${index}`;
 }
 
 function ContestRun({ handle }) {
@@ -17,6 +17,22 @@ function ContestRun({ handle }) {
 
   // Store selected problems for contest_live
   const [selectedProblems, setSelectedProblems] = useState([]);
+
+  // On mount, restore selectedProblems if present in localStorage
+  useEffect(() => {
+    const saved = localStorage.getItem('cfvc-selected-problems');
+    if (saved) {
+      setSelectedProblems(JSON.parse(saved));
+      setStarted(true);
+    }
+  }, []);
+
+  // Save selectedProblems to localStorage when contest starts
+  useEffect(() => {
+    if (started && selectedProblems.length > 0) {
+      localStorage.setItem('cfvc-selected-problems', JSON.stringify(selectedProblems));
+    }
+  }, [started, selectedProblems]);
 
   const handleChange = (idx, field, value) => {
     const updated = [...questions];
@@ -70,16 +86,20 @@ function ContestRun({ handle }) {
       alert('Please select rating and topic for all questions and ensure all problems are loaded.');
       return;
     }
-    setSelectedProblems(questions.map(q => ({
+    const selected = questions.map(q => ({
       contestId: q.problem.contestId,
       index: q.problem.index,
       tag: q.problem.tag
-    })));
+    }));
+    setSelectedProblems(selected);
     setStarted(true);
+    localStorage.setItem('cfvc-selected-problems', JSON.stringify(selected));
   };
 
   const handleContestEnd = () => {
     setStarted(false);
+    setSelectedProblems([]);
+    localStorage.removeItem('cfvc-selected-problems');
     // Optionally, you can reset questions or show a summary here
   };
 
@@ -115,11 +135,11 @@ function ContestRun({ handle }) {
           </label>
           <div style={{ marginTop: '8px' }}>
             {q.problem && q.problem.error && <span className="error-message">{q.problem.error}</span>}
-            {q.problem && !q.problem.error && (
+            {/* {q.problem && !q.problem.error && (
               <a className="problem-link" href={getProblemUrl(q.problem.contestId, q.problem.index)} target="_blank" rel="noopener noreferrer">
                 Go to Problem ({q.problem.tag})
               </a>
-            )}
+            )} */}
           </div>
         </div>
       ))}

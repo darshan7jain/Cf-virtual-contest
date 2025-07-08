@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './styles/contest_live.css';
 
 function getProblemUrl(contestId, index) {
-  return `https://codeforces.com/contest/${contestId}/problem/${index}`;
+  return `https://codeforces.com/problemset/problem/${contestId}/${index}`;
 }
 
 const formatTime = (seconds) => {
@@ -13,18 +13,33 @@ const formatTime = (seconds) => {
 };
 
 function ContestLive({ handle, problems, onEnd }) {
-  const [timeLeft, setTimeLeft] = useState(7200); // 2 hours in seconds
+  // Try to restore timeLeft from localStorage, else default to 7200
+  const [timeLeft, setTimeLeft] = useState(() => {
+    const saved = localStorage.getItem('cfvc-contest-timeleft');
+    return saved ? parseInt(saved, 10) : 7200;
+  });
   const [statuses, setStatuses] = useState(problems.map(() => 'no submission'));
   const [checking, setChecking] = useState(Array(problems.length).fill(false));
 
+  // Save timeLeft to localStorage on every change
   useEffect(() => {
+    localStorage.setItem('cfvc-contest-timeleft', timeLeft);
     if (timeLeft <= 0) {
+      saveContestDetails();
+      localStorage.removeItem('cfvc-contest-timeleft');
       onEnd();
       return;
     }
     const timer = setInterval(() => setTimeLeft(t => t - 1), 1000);
     return () => clearInterval(timer);
   }, [timeLeft, onEnd]);
+
+  // On contest end, clear time from localStorage
+  useEffect(() => {
+    return () => {
+      localStorage.removeItem('cfvc-contest-timeleft');
+    };
+  }, []);
 
   const checkSubmission = async (idx) => {
     setChecking(arr => arr.map((v, i) => i === idx ? true : v));
@@ -40,10 +55,15 @@ function ContestLive({ handle, problems, onEnd }) {
           sub.problem.contestId === problems[idx].contestId &&
           sub.problem.index === problems[idx].index
         ) {
-          if (sub.verdict === 'OK') verdict = 'accepted';
-          else verdict = 'wrong';
+          if (sub.verdict === 'OK'){
+            verdict = 'ACCEPTED';
+            console.log('check');
+            //add contest end check here
+            saveContestDetails();
+          }
+          else verdict = 'Wrong Answer';
         } else {
-          verdict = 'wrong';
+          verdict = 'No submission';
         }
       }
       setStatuses(arr => arr.map((v, i) => i === idx ? verdict : v));
@@ -51,6 +71,49 @@ function ContestLive({ handle, problems, onEnd }) {
       setStatuses(arr => arr.map((v, i) => i === idx ? 'error' : v));
     }
     setChecking(arr => arr.map((v, i) => i === idx ? false : v));
+  };
+
+  // Save contest details to localStorage
+  const saveContestDetails = () => {
+    let userData;
+    try {
+      userData = JSON.parse(localStorage.getItem('cfvc-user-data')) || { contests: [], topicStats: {} };
+    } catch {
+      userData = { contests: [], topicStats: {} };
+    }
+    const contestResult = {
+      date: new Date().toISOString(),
+      problems: problems.map((p, i) => ({
+        contestId: p.contestId,
+        index: p.index,
+        tag: p.tag,
+        status: statuses[i],
+      })),
+    };
+    userData.contests.push(contestResult);
+    for (let i = 0; i < problems.length; ++i) {
+      if (statuses[i] === 'ACCEPTED') {
+        const tag = problems[i].tag;
+        if (!userData.topicStats[tag]) userData.topicStats[tag] = [];
+        userData.topicStats[tag].push({
+          contestId: problems[i].contestId,
+          index: problems[i].index,
+          date: contestResult.date
+        });
+      }
+    }
+    localStorage.setItem('cfvc-user-data', JSON.stringify(userData));
+  };
+
+  // Call saveContestDetails on every status change
+  useEffect(() => {
+    saveContestDetails();
+    // eslint-disable-next-line
+  }, [statuses]);
+
+  const handleManualEnd = () => {
+    localStorage.removeItem('cfvc-contest-timeleft');
+    onEnd();
   };
 
   return (
@@ -93,7 +156,8 @@ function ContestLive({ handle, problems, onEnd }) {
         </tbody>
       </table>
       <div className="contest-live-footer">
-        The contest will end automatically after 2 hours.
+        The contest will end automatically after 2 hours.<br/>
+        <button className="problem-link" style={{marginTop:8}} onClick={handleManualEnd}>End Contest Now</button>
       </div>
     </div>
   );

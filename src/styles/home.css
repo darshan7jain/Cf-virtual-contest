@@ -74,3 +74,19 @@
 .tab-content {
   padding: 32px;
 }
+
+.logout-btn {
+  background: rgb(220, 53, 69);
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 6px;
+  padding: 6px 16px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background 0.2s;
+}
+
+.logout-btn:hover {
+  background: rgb(180, 40, 55);
+}
